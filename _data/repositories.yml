@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - sjiang87          # your personal research account
+  - jiangtheory       # The Jiang Group site account
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - sjiang87/poly-topoGNN-vae          # Property-guided generation of complex polymer topologies (TopoGNN)
+  - sjiang87/graph2lammps              # Convert polymer graph structure to LAMMPS input file
+  - sjiang87/deephyper                 # My fork — Uncertainty quantification with graph neural architecture search (AutoGNNUQ)
+  - deephyper/deephyper                # Scalable neural architecture & hyperparameter search (contributor)
+  - zavalab/ML                         # AutoGNNUQ and other ML tools from Zavala Lab
+  - jiangtheory/jiangtheory.github.io  # Official Jiang Group website (this site!)
