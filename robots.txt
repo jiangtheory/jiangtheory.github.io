@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jiangtheory.github.io/al-folio/sitemap.xml
+Sitemap: https://jiangtheory.github.io/sitemap.xml
