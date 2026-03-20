@@ -1,17 +1,13 @@
 cv:
   name: Shengli (Bruce) Jiang
-  label: Incoming Professor of XXX
-  email: xxx@xxx.edu
+  label: Incoming Professor of Chemical Engineering
+  email: sj0161@princeton.edu
   phone: +1 530 680 7285
-  web: https://www.shenglijiang.com
-  github: sjiang87
-  location: XXX, XX
+  location: Princeton, NJ
   image: ""
   summary: Computational chemical engineer specializing in physics-informed machine learning, molecular modeling, uncertainty quantification, and polymer design. Currently Postdoctoral Associate & Lecturer at Princeton University (Webb Group). Incoming Professor at XXX University, where I will establish The Jiang Group.
 
   social_networks:
-    - network: Website
-      username: shenglijiang.com
     - network: GitHub
       username: sjiang87
 
@@ -41,15 +37,15 @@ cv:
         position: Postdoctoral Associate
         location: Princeton, NJ
         start_date: "2023"
-        end_date: "Present"
-        summary: "Advisor: Prof. Michael A. Webb\nResearch: Polymer design using machine learning and molecular dynamics simulations"
+        end_date: present
+        summary: "Advisor: Prof. Michael A. Webb. Research: Polymer design using machine learning and molecular dynamics simulations"
 
       - company: Princeton University
         position: Lecturer
         location: Princeton, NJ
         start_date: "2024"
         end_date: "2025"
-        summary: "Course: Machine Learning in Chemical Science and Engineering"
+        summary: "Machine Learning in Chemical Science and Engineering"
 
       - company: Dow Chemical
         position: Research Intern
@@ -66,7 +62,7 @@ cv:
         awarder: Computing in Engineering Forum, University of Wisconsin-Madison
       - title: Travel Award
         date: "2019"
-        awarder: Machine Learning in Science and Engineering (MLSE)
+        awarder: Machine Learning in Science and Engineering
 
     Projects:
       - name: TopoGNN
@@ -75,11 +71,3 @@ cv:
         summary: Uncertainty quantification for molecular property predictions with graph neural architecture search (Main Developer)
       - name: GCGNN
         summary: Physics-guided neural networks for transferable prediction of polymer properties (Main Developer)
-
-    # Skills:
-    #   - name: Machine Learning & Data Science
-    #     keywords: "PyTorch, Graph Neural Networks, Variational Autoencoders, Physics-informed ML, Topological Data Analysis"
-    #   - name: Molecular Simulation
-    #     keywords: "Molecular Dynamics, LAMMPS, GROMACS"
-    #   - name: Programming
-    #     keywords: "Python, MATLAB, Git, LaTeX"
