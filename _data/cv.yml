@@ -1,70 +1,71 @@
 cv:
   name: Shengli (Bruce) Jiang
-  label: Incoming Professor of Chemical Engineering
+  headline: Incoming Professor of Chemical Engineering
   email: sj0161@princeton.edu
   phone: +1 530 680 7285
   location: Princeton, NJ
-  image: ""
-  summary: Computational chemical engineer specializing in physics-informed machine learning, molecular modeling, uncertainty quantification, and polymer design. Currently Postdoctoral Associate & Lecturer at Princeton University (Webb Group). Incoming Professor at XXX University, where I will establish The Jiang Group.
 
   social_networks:
     - network: GitHub
       username: sjiang87
 
   sections:
-    Education:
+    summary:
+      - Computational chemical engineer specializing in physics-informed machine learning, molecular modeling, uncertainty quantification, and polymer design. Currently Postdoctoral Associate & Lecturer at Princeton University (Webb Group). Incoming Professor at XXX University, where I will establish The Jiang Group.
+
+    education:
       - institution: University of Wisconsin-Madison
         location: Madison, WI
         area: Chemical Engineering
-        studyType: Ph.D.
+        degree: Ph.D.
         start_date: "2018"
         end_date: "2023"
         highlights:
-          - "Advisor: Prof. Victor M. Zavala"
-          - "Thesis: Data Representations and Transformations in Chemical Engineering"
+          - Advisor: Prof. Victor M. Zavala
+          - Thesis: Data Representations and Transformations in Chemical Engineering
 
       - institution: University of California, San Diego
         location: La Jolla, CA
         area: Chemical Engineering
-        studyType: B.S.
+        degree: B.S.
         start_date: "2014"
         end_date: "2018"
         highlights:
-          - "Advisor: Prof. Zheng Chen"
+          - Advisor: Prof. Zheng Chen
 
-    Experience:
+    experience:
       - company: Princeton University
         position: Postdoctoral Associate
         location: Princeton, NJ
         start_date: "2023"
         end_date: present
-        summary: "Advisor: Prof. Michael A. Webb. Research: Polymer design using machine learning and molecular dynamics simulations"
+        summary: Advisor: Prof. Michael A. Webb. Research: Polymer design using machine learning and molecular dynamics simulations
 
       - company: Princeton University
         position: Lecturer
         location: Princeton, NJ
         start_date: "2024"
         end_date: "2025"
-        summary: "Machine Learning in Chemical Science and Engineering"
+        summary: Machine Learning in Chemical Science and Engineering
 
       - company: Dow Chemical
         position: Research Intern
         location: Freeport, TX
         start_date: "2022"
-        summary: "Chemometrics and Artificial Intelligence Group"
+        summary: Chemometrics and Artificial Intelligence Group
 
-    Awards:
-      - title: Givens Associate Fellowship
+    awards:
+      - name: Givens Associate Fellowship
         date: "2020"
         awarder: Argonne National Laboratory
-      - title: Poster Award
+      - name: Poster Award
         date: "2020"
         awarder: Computing in Engineering Forum, University of Wisconsin-Madison
-      - title: Travel Award
+      - name: Travel Award
         date: "2019"
         awarder: Machine Learning in Science and Engineering
 
-    Projects:
+    projects:
       - name: TopoGNN
         summary: Property-guided generation of complex polymer topologies using variational autoencoders (Main Developer)
       - name: AutoGNNUQ
