@@ -52,7 +52,7 @@ cv:
         location: Department of Chemical and Biological Engineering, Princeton, NJ
         start_date: 2023
         end_date: Present
-        summary: Advisor: Professor Michael A. Webb. Integrate molecular simulation and machine learning to design polymers with tailored properties.
+        summary: "Advisor: Professor Michael A. Webb. Integrate molecular simulation and machine learning to design polymers with tailored properties."
         highlights:
           - Physics-informed machine learning for polymer design
           - Structure-property relationship modeling in soft materials
@@ -62,7 +62,7 @@ cv:
         location: Department of Chemical and Biological Engineering, Princeton, NJ
         start_date: 2024
         end_date: 2025
-        summary: Course: Machine Learning in Chemical Science and Engineering
+        summary: "Course: Machine Learning in Chemical Science and Engineering"
         highlights: []
 
       - company: Dow Chemical
@@ -95,7 +95,7 @@ cv:
         location: Various Journals and Conferences
         start_date: ""
         end_date: Present
-        summary: Reviewed for journals including Chemical Reviews, Chemical Science, npj Computational Materials, Environmental Science & Technology, Digital Discovery, Molecular Systems Design & Engineering, Computers & Chemical Engineering, and others. Also for conferences: American Control Conference, IEEE Conference on Decision and Control.
+        summary: "Reviewed for journals including Chemical Reviews, Chemical Science, npj Computational Materials, Environmental Science & Technology, Digital Discovery, Molecular Systems Design & Engineering, Computers & Chemical Engineering, and others. Also for conferences: American Control Conference, IEEE Conference on Decision and Control."
         highlights: []
 
       - company: Committee Service
