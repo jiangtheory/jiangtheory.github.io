@@ -1,221 +1,163 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Shengli (Bruce) Jiang",
+    "label": "Postdoctoral Associate | Lecturer",
+    "email": "sj0161@princeton.edu",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Princeton",
+      "region": "New Jersey",
+      "countryCode": "US"
     },
-    "profiles": []
+    "summary": "A computational chemical engineer specializing in integrating molecular simulation and machine learning to design soft materials and polymers with tailored properties for energy and sustainability applications.",
+    "image": "",
+    "profiles": [
+      {
+        "network": "X",
+        "username": "ShengliJiang",
+        "url": "https://x.com/ShengliJiang"
+      },
+      {
+        "network": "GitHub",
+        "username": "sjiang87",
+        "url": "https://github.com/sjiang87"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "shengli-jiang-59500085",
+        "url": "https://www.linkedin.com/in/shengli-jiang-59500085"
+      }
+    ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
+      "name": "Princeton University",
+      "position": "Postdoctoral Associate",
+      "location": "Department of Chemical and Biological Engineering, Princeton, NJ",
+      "startDate": "2023",
+      "endDate": "Present",
+      "summary": "Advisor: Professor Michael A. Webb. Integrate molecular simulation and machine learning to design polymers with tailored properties.",
+      "highlights": [
+        "Physics-informed machine learning for polymer design",
+        "Structure-property relationship modeling in soft materials"
+      ]
     },
     {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
-    },
-    {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
+      "name": "Princeton University",
+      "position": "Lecturer",
+      "location": "Department of Chemical and Biological Engineering, Princeton, NJ",
+      "startDate": "2024",
+      "endDate": "2025",
+      "summary": "Course: Machine Learning in Chemical Science and Engineering",
       "highlights": []
     },
     {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
-      "summary": "",
+      "name": "Dow Chemical",
+      "position": "Research Intern",
+      "location": "Chemometrics and Artificial Intelligence Group, Freeport, TX",
+      "startDate": "2022",
+      "endDate": "2022",
+      "summary": "Electricity price forecasting; large language models for quality note analysis",
       "highlights": []
     },
     {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
-      "summary": "",
+      "name": "Argonne National Laboratory",
+      "position": "Givens Associate",
+      "location": "Mathematics and Computer Science Division, Lemont, IL",
+      "startDate": "2020",
+      "endDate": "2020",
+      "summary": "Graph neural architecture search for molecular property prediction",
       "highlights": []
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "University of California, San Diego",
+      "position": "Undergraduate Researcher",
+      "location": "Department of NanoEngineering, La Jolla, CA",
+      "startDate": "2016",
+      "endDate": "2018",
+      "summary": "Design of organic cathodes for lithium-ion batteries",
+      "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
+      "institution": "University of Wisconsin-Madison",
+      "location": "Madison, WI, USA",
+      "url": "https://www.wisc.edu/",
+      "area": "Chemical Engineering",
       "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
+      "startDate": "2018",
+      "endDate": "2023",
+      "highlights": [
+        "Advisor: Professor Victor M. Zavala",
+        "Focused on machine learning for sensor design, solvent systems, electrochemistry, and sustainability."
+      ]
     },
     {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
-      "score": "",
-      "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
+      "institution": "University of California, San Diego",
+      "location": "La Jolla, CA, USA",
+      "url": "https://ucsd.edu/",
+      "area": "Chemical Engineering",
+      "studyType": "B.S.",
+      "startDate": "2014",
+      "endDate": "2018",
+      "highlights": [
+        "Worked with Professor Zheng Chen on lithium-ion battery cathode design."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Peer Review",
+      "position": "Reviewer",
+      "location": "Various Journals and Conferences",
+      "startDate": "",
+      "endDate": "Present",
+      "summary": "Reviewed for journals including Chemical Reviews, Chemical Science, npj Computational Materials, Environmental Science & Technology, Digital Discovery, Molecular Systems Design & Engineering, Computers & Chemical Engineering, and others. Also for conferences: American Control Conference, IEEE Conference on Decision and Control.",
+      "highlights": []
+    },
+    {
+      "organization": "Princeton University",
+      "position": "Department DECI Committee Member",
+      "location": "Princeton University",
+      "startDate": "2023",
+      "endDate": "2025",
+      "summary": "Committee Service",
+      "highlights": []
+    },
+    {
+      "organization": "University of Wisconsin-Madison",
+      "position": "Department DEI Committee Member",
+      "location": "University of Wisconsin-Madison",
+      "startDate": "2022",
+      "endDate": "2023",
+      "summary": "Committee Service",
+      "highlights": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Givens Associate Fellowship",
+      "date": "2020",
+      "awarder": "Argonne National Laboratory",
+      "summary": "Fellowship for research in mathematics and computer science"
     },
     {
-      "title": "Max Planck Medal",
-      "date": "2029-01-01",
-      "awarder": "German Physical Society",
-      "summary": ""
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-location-dot"
+      "title": "Poster Award",
+      "date": "2020",
+      "awarder": "Computing in Engineering Forum, University of Wisconsin-Madison",
+      "summary": "Recognized for outstanding poster presentation"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-tag"
+      "title": "Travel Award",
+      "date": "2019",
+      "awarder": "Machine Learning in Science and Engineering (MLSE), Georgia Institute of Technology",
+      "summary": "Support for conference attendance"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-envelope"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrodynamik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
-    },
-    {
-      "name": "Professor Jane Smith",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01"
+      "title": "Provost Honors",
+      "date": "2014-2018",
+      "awarder": "University of California, San Diego",
+      "summary": "Academic honors throughout undergraduate studies"
     }
   ]
 }
