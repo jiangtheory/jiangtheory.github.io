@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Department of Chemical Engineering | Molinaroli College of Engineering and Computing | University of South Carolina
+subtitle: Department of Chemical Engineering, Molinaroli College of Engineering and Computing, University of South Carolina
 
 profile:
   align: right
