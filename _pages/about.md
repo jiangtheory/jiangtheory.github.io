@@ -37,7 +37,7 @@ We develop **computational tools** to discover, design, and optimize **materials
 We integrate:
 
 - **Molecular modeling and simulation** to understand structure, dynamics, and transport phenomena in soft matter
-- **Data science and machine learning** to learn interpretable structure–property–process relationships
+- **Data science and machine learning** to learn interpretable process–structure–property relationships
 - **Process systems engineering** to navigate trade-offs and optimize designs under practical constraints
 
 <div style="margin-top: 2.5rem;"></div>
