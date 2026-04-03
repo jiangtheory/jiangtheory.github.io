@@ -521,6 +521,13 @@ ninja.data = [{
           window.open("mailto:%73%6A%69%61%6E%67%38%37@%73%68%65%6E%67%6C%69%6A%69%61%6E%67.%63%6F%6D", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/shengli-jiang-59500085", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
