@@ -1,15 +1,13 @@
 {
   "basics": {
     "name": "Shengli (Bruce) Jiang",
-    "label": "Postdoctoral Associate | Lecturer",
-    "email": "sj0161@princeton.edu",
+    "label": "Incoming Assistant Professor",
+    "email": "sjiang87@shenglijiang.com",
     "location": {
-      "city": "Princeton",
-      "region": "New Jersey",
+      "city": "Columbia",
+      "region": "South Carolina",
       "countryCode": "US"
     },
-    "summary": "A computational chemical engineer specializing in integrating molecular simulation and machine learning to design soft materials and polymers with tailored properties for energy and sustainability applications.",
-    "image": "",
     "profiles": [
       {
         "network": "X",
@@ -32,19 +30,19 @@
     {
       "name": "Princeton University",
       "position": "Postdoctoral Associate",
-      "location": "Madison, WI",
+      "location": "Princeton, NJ",
       "startDate": "2023-01-01",
-      "endDate": "Present",
+      "endDate": "2026-01-01",
       "highlights": [
-        "Advisor: Professor Michael A. Webb. Integrate molecular simulation and machine learning to design polymers with tailored properties.",
-        "Physics-informed machine learning for polymer design",
-        "Structure-property relationship modeling in soft materials"
+        "Advisor: Michael A. Webb",
+        "Molecular simulation + machine learning for polymer design",
+        "Architecturally complex polymers, polymer rheology, generative AI"
       ]
     },
     {
       "name": "Princeton University",
       "position": "Lecturer",
-      "location": "Madison, WI",
+      "location": "Princeton, NJ",
       "startDate": "2024-01-01",
       "endDate": "2025-12-31",
       "highlights": [
@@ -58,7 +56,9 @@
       "startDate": "2022-01-01",
       "endDate": "2022-12-31",
       "highlights": [
-        "Electricity price forecasting; large language models for quality note analysis"
+        "Advisor: Ivan Castillo and Zheng Yu",
+        "Electricity price forecasting",
+        "Language models for quality note analysis"
       ]
     },
     {
@@ -68,6 +68,7 @@
       "startDate": "2020-01-01",
       "endDate": "2020-12-31",
       "highlights": [
+        "Advisor: Prasanna Balaprakash",
         "Graph neural architecture search for molecular property prediction"
       ]
     },
@@ -78,27 +79,8 @@
       "startDate": "2016-01-01",
       "endDate": "2018-12-31",
       "highlights": [
+        "Advisor: Zheng Chen",
         "Design of organic cathodes for lithium-ion batteries"
-      ]
-    },
-    {
-      "name": "Princeton University",
-      "position": "Department DECI Committee Member",
-      "location": "Princeton, NJ",
-      "startDate": "2023-01-01",
-      "endDate": "2025-12-31",
-      "highlights": [
-        "Committee Service"
-      ]
-    },
-    {
-      "name": "University of Wisconsin-Madison",
-      "position": "Department DEI Committee Member",
-      "location": "Princeton, NJ",
-      "startDate": "2022-01-01",
-      "endDate": "2023-12-31",
-      "highlights": [
-        "Committee Service"
       ]
     }
   ],
@@ -106,26 +88,25 @@
     {
       "institution": "University of Wisconsin-Madison",
       "location": "Madison, WI",
-      "url": "https://www.wisc.edu/",
-      "area": "Chemical Engineering",
-      "studyType": "PhD",
+      "area": "Minor in Computer Science",
+      "studyType": "PhD in Chemical Engineering",
       "startDate": "2018-01-01",
       "endDate": "2023-12-31",
       "highlights": [
-        "Advisor: Professor Victor M. Zavala",
-        "Focused on machine learning for sensor design, solvent systems, electrochemistry, and sustainability."
+        "Advisor: Victor M. Zavala",
+        "Machine learning in chemical engineering",
+        "Data representation and transformation"
       ]
     },
     {
       "institution": "University of California, San Diego",
       "location": "La Jolla, CA",
-      "url": "https://ucsd.edu/",
-      "area": "Chemical Engineering",
-      "studyType": "B.S.",
+      "area": "Minor in Nano Engineering",
+      "studyType": "B.S. in Chemical Engineering",
       "startDate": "2014-01-01",
       "endDate": "2018-12-31",
       "highlights": [
-        "Worked with Professor Zheng Chen on lithium-ion battery cathode design."
+        "Vice President of Global China Connection, UCSD Chapter"
       ]
     }
   ],
@@ -133,26 +114,22 @@
     {
       "title": "Givens Associate Fellowship",
       "date": "2020",
-      "awarder": "Argonne National Laboratory",
-      "summary": "Fellowship for research in mathematics and computer science"
+      "awarder": "Argonne National Laboratory"
     },
     {
       "title": "Poster Award",
       "date": "2020",
-      "awarder": "Computing in Engineering Forum, University of Wisconsin-Madison",
-      "summary": "Recognized for outstanding poster presentation"
+      "awarder": "Computing in Engineering Forum, University of Wisconsin-Madison"
     },
     {
       "title": "Travel Award",
       "date": "2019",
-      "awarder": "Machine Learning in Science and Engineering (MLSE), Georgia Institute of Technology",
-      "summary": "Support for conference attendance"
+      "awarder": "Machine Learning in Science and Engineering (MLSE), Georgia Institute of Technology"
     },
     {
       "title": "Provost Honors",
       "date": "2014-2018",
-      "awarder": "University of California, San Diego",
-      "summary": "Academic honors throughout undergraduate studies"
+      "awarder": "University of California, San Diego"
     }
   ]
 }
