@@ -2,31 +2,29 @@
 layout: about
 title: about
 permalink: /
-subtitle: "Department of Chemical Engineering | Molinaroli College of Engineering and Computing | University of South Carolina"
+subtitle: Department of Chemical Engineering | Molinaroli College of Engineering and Computing | University of South Carolina
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  more_info: |
-    <p><strong>Starting:</strong> August 2026</p>
-    <p><strong>Office:</strong> TBD</p>
-    <p><strong>University of South Carolina</strong></p>
+  more_info: >
+    <p>Office: TBD</p>
+    <p>University of South Carolina</p>
     <p>Columbia, SC 29208</p>
-    <p><a href="mailto:sjiang87@shenglijiang.com">sjiang87@shenglijiang.com</a></p>
 
 selected_papers: true
 social: true
 
-announcements:
-  enabled: false
-  scrollable: true
-  limit: 5
+# announcements:
+#   enabled: false
+#   scrollable: true
+#   limit: 5
 
-latest_posts:
-  enabled: false
-  scrollable: true
-  limit: 3
+# latest_posts:
+#   enabled: false
+#   scrollable: true
+#   limit: 3
 ---
 
 ## ABOUT MPD LAB
