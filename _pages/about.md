@@ -30,7 +30,7 @@ social: true
 ---
 <div style="margin-top: 2.5rem;"></div>
 
-## ABOUT MPD LAB
+## ABOUT CMPD LAB
 
 We develop **computational tools** to discover, design, and optimize **materials and product systems**, with a special focus on soft matter — such as polymers, colloids, gels, and complex fluids — and their applications in energy and sustainability.
 
