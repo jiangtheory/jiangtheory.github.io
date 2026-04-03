@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: Department of Chemical Engineering, Molinaroli College of Engineering and Computing, University of South Carolina
+subtitle: "Department of Chemical Engineering | Molinaroli College of Engineering and Computing | University of South Carolina"
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office: TBD</p>
     <p>University of South Carolina</p>
@@ -25,8 +25,9 @@ social: true
 #   enabled: false
 #   scrollable: true
 #   limit: 3
----
 
+
+---
 ## ABOUT MPD LAB
 
 We develop **computational tools** to discover, design, and optimize **materials and product systems**, with a special focus on soft matter — such as polymers, colloids, gels, and complex fluids — and their applications in energy and sustainability.
@@ -34,7 +35,7 @@ We develop **computational tools** to discover, design, and optimize **materials
 We integrate:
 
 - **Molecular modeling and simulation** to understand structure, dynamics, and transport phenomena in soft matter
-- **Data science and machine learning** to learn interpretable process-structure–property relationships
+- **Data science and machine learning** to learn interpretable structure–property–process relationships
 - **Process systems engineering** to navigate trade-offs and optimize designs under practical constraints
 
 ---
