@@ -32,11 +32,14 @@
     {
       "name": "Princeton University",
       "position": "Postdoctoral Associate",
-      "location": "Department of Chemical and Biological Engineering, Princeton, NJ",
+      "location": {
+        "city": "Princeton",
+        "region": "NJ"
+      },
       "startDate": "2023-01-01",
       "endDate": "Present",
-      "summary": "Advisor: Professor Michael A. Webb. Integrate molecular simulation and machine learning to design polymers with tailored properties.",
       "highlights": [
+        "Advisor: Professor Michael A. Webb. Integrate molecular simulation and machine learning to design polymers with tailored properties.",
         "Physics-informed machine learning for polymer design",
         "Structure-property relationship modeling in soft materials"
       ]
@@ -44,65 +47,93 @@
     {
       "name": "Princeton University",
       "position": "Lecturer",
-      "location": "Department of Chemical and Biological Engineering, Princeton, NJ",
+      "location": {
+        "city": "Princeton",
+        "region": "NJ"
+      },
       "startDate": "2024-01-01",
       "endDate": "2025-12-31",
-      "summary": "Course: Machine Learning in Chemical Science and Engineering",
-      "highlights": []
+      "highlights": [
+        "Course: Machine Learning in Chemical Science and Engineering"
+      ]
     },
     {
       "name": "Dow Chemical",
       "position": "Research Intern",
-      "location": "Chemometrics and Artificial Intelligence Group, Freeport, TX",
+      "location": {
+        "city": "Freeport",
+        "region": "TX"
+      },
       "startDate": "2022-01-01",
       "endDate": "2022-12-31",
-      "summary": "Electricity price forecasting; large language models for quality note analysis",
-      "highlights": []
+      "highlights": [
+        "Electricity price forecasting; large language models for quality note analysis"
+      ]
     },
     {
       "name": "Argonne National Laboratory",
       "position": "Givens Associate",
-      "location": "Mathematics and Computer Science Division, Lemont, IL",
+      "location": {
+        "city": "Lemont",
+        "region": "IL"
+      },
       "startDate": "2020-01-01",
       "endDate": "2020-12-31",
-      "summary": "Graph neural architecture search for molecular property prediction",
-      "highlights": []
+      "highlights": [
+        "Graph neural architecture search for molecular property prediction"
+      ]
     },
     {
       "name": "University of California, San Diego",
       "position": "Undergraduate Researcher",
-      "location": "Department of NanoEngineering, La Jolla, CA",
+      "location": {
+        "city": "La Jolla",
+        "region": "CA"
+      },
       "startDate": "2016-01-01",
       "endDate": "2018-12-31",
-      "summary": "Design of organic cathodes for lithium-ion batteries",
-      "highlights": []
+      "highlights": [
+        "Design of organic cathodes for lithium-ion batteries"
+      ]
     },
     {
       "name": "Various Journals and Conferences",
       "position": "Reviewer",
-      "location": "",
-      "startDate": "",
+      "location": {
+        "city": "",
+        "region": ""
+      },
+      "startDate": "2020-01-01",
       "endDate": "Present",
-      "summary": "Reviewed for journals including Chemical Reviews, Chemical Science, npj Computational Materials, Environmental Science & Technology, Digital Discovery, Molecular Systems Design & Engineering, Computers & Chemical Engineering, and others. Also for conferences: American Control Conference, IEEE Conference on Decision and Control.",
-      "highlights": []
+      "highlights": [
+        "Reviewed for journals including Chemical Reviews, Chemical Science, npj Computational Materials, Environmental Science & Technology, Digital Discovery, Molecular Systems Design & Engineering, Computers & Chemical Engineering, and others. Also for conferences: American Control Conference, IEEE Conference on Decision and Control."
+      ]
     },
     {
       "name": "Princeton University",
       "position": "Department DECI Committee Member",
-      "location": "Princeton University",
+      "location": {
+        "city": "Princeton",
+        "region": "NJ"
+      },
       "startDate": "2023-01-01",
       "endDate": "2025-12-31",
-      "summary": "Committee Service",
-      "highlights": []
+      "highlights": [
+        "Committee Service"
+      ]
     },
     {
       "name": "University of Wisconsin-Madison",
       "position": "Department DEI Committee Member",
-      "location": "University of Wisconsin-Madison",
+      "location": {
+        "city": "Madison",
+        "region": "WI"
+      },
       "startDate": "2022-01-01",
       "endDate": "2023-12-31",
-      "summary": "Committee Service",
-      "highlights": []
+      "highlights": [
+        "Committee Service"
+      ]
     }
   ],
   "education": [
