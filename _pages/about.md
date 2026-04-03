@@ -13,7 +13,7 @@ profile:
     <p>University of South Carolina</p>
     <p>Columbia, SC 29208</p>
 
-selected_papers: true
+# selected_papers: true
 social: true
 
 # announcements:
@@ -28,6 +28,8 @@ social: true
 
 
 ---
+<div style="margin-top: 2.5rem;"></div>
+
 ## ABOUT MPD LAB
 
 We develop **computational tools** to discover, design, and optimize **materials and product systems**, with a special focus on soft matter — such as polymers, colloids, gels, and complex fluids — and their applications in energy and sustainability.
@@ -37,8 +39,6 @@ We integrate:
 - **Molecular modeling and simulation** to understand structure, dynamics, and transport phenomena in soft matter
 - **Data science and machine learning** to learn interpretable structure–property–process relationships
 - **Process systems engineering** to navigate trade-offs and optimize designs under practical constraints
-
----
 
 ## JOIN US (PhD Students & Postdocs)
 
