@@ -40,11 +40,12 @@ We integrate:
 - **Data science and machine learning** to learn interpretable structure–property–process relationships
 - **Process systems engineering** to navigate trade-offs and optimize designs under practical constraints
 
-## JOIN US (PhD Students & Postdocs)
+<div style="margin-top: 2.5rem;"></div>
+
+## JOIN US (PHD STUDENTS & POSTDOCS)
 
 **Now recruiting for Fall 2026!**  
 
 If you’re excited about building computational tools that connect **molecules → materials → products**, we’d love to hear from you.
 
 📩 **Email:** [sjiang87@shenglijiang.com](mailto:sjiang87@shenglijiang.com)  
-🌐 **Website:** [shenglijiang.com](https://www.shenglijiang.com/)

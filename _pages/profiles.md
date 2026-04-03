@@ -18,7 +18,7 @@ profiles:
       <p>University of South Carolina</p>
       <p>Columbia, SC 29208</p>
   - align: left
-    image: assets/img/South_Carolina_Gamecocks_logo.svg
+    image: South_Carolina_Gamecocks_logo.png
     content: about_phd.md
     image_circular: false # crops the image to make it circular
     more_info: >
