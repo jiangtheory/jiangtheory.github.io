@@ -32,10 +32,7 @@
     {
       "name": "Princeton University",
       "position": "Postdoctoral Associate",
-      "location": {
-        "city": "Princeton",
-        "region": "NJ"
-      },
+      "location": "Madison, WI",
       "startDate": "2023-01-01",
       "endDate": "Present",
       "highlights": [
@@ -47,10 +44,7 @@
     {
       "name": "Princeton University",
       "position": "Lecturer",
-      "location": {
-        "city": "Princeton",
-        "region": "NJ"
-      },
+      "location": "Madison, WI",
       "startDate": "2024-01-01",
       "endDate": "2025-12-31",
       "highlights": [
@@ -60,10 +54,7 @@
     {
       "name": "Dow Chemical",
       "position": "Research Intern",
-      "location": {
-        "city": "Freeport",
-        "region": "TX"
-      },
+      "location": "Freeport, TX",
       "startDate": "2022-01-01",
       "endDate": "2022-12-31",
       "highlights": [
@@ -73,10 +64,7 @@
     {
       "name": "Argonne National Laboratory",
       "position": "Givens Associate",
-      "location": {
-        "city": "Lemont",
-        "region": "IL"
-      },
+      "location": "Lemont, IL",
       "startDate": "2020-01-01",
       "endDate": "2020-12-31",
       "highlights": [
@@ -86,10 +74,7 @@
     {
       "name": "University of California, San Diego",
       "position": "Undergraduate Researcher",
-      "location": {
-        "city": "La Jolla",
-        "region": "CA"
-      },
+      "location": "La Jolla, CA",
       "startDate": "2016-01-01",
       "endDate": "2018-12-31",
       "highlights": [
@@ -97,25 +82,9 @@
       ]
     },
     {
-      "name": "Various Journals and Conferences",
-      "position": "Reviewer",
-      "location": {
-        "city": "",
-        "region": ""
-      },
-      "startDate": "2020-01-01",
-      "endDate": "Present",
-      "highlights": [
-        "Reviewed for journals including Chemical Reviews, Chemical Science, npj Computational Materials, Environmental Science & Technology, Digital Discovery, Molecular Systems Design & Engineering, Computers & Chemical Engineering, and others. Also for conferences: American Control Conference, IEEE Conference on Decision and Control."
-      ]
-    },
-    {
       "name": "Princeton University",
       "position": "Department DECI Committee Member",
-      "location": {
-        "city": "Princeton",
-        "region": "NJ"
-      },
+      "location": "Princeton, NJ",
       "startDate": "2023-01-01",
       "endDate": "2025-12-31",
       "highlights": [
@@ -125,10 +94,7 @@
     {
       "name": "University of Wisconsin-Madison",
       "position": "Department DEI Committee Member",
-      "location": {
-        "city": "Madison",
-        "region": "WI"
-      },
+      "location": "Princeton, NJ",
       "startDate": "2022-01-01",
       "endDate": "2023-12-31",
       "highlights": [
@@ -139,7 +105,7 @@
   "education": [
     {
       "institution": "University of Wisconsin-Madison",
-      "location": "Madison, WI, USA",
+      "location": "Madison, WI",
       "url": "https://www.wisc.edu/",
       "area": "Chemical Engineering",
       "studyType": "PhD",
@@ -152,7 +118,7 @@
     },
     {
       "institution": "University of California, San Diego",
-      "location": "La Jolla, CA, USA",
+      "location": "La Jolla, CA",
       "url": "https://ucsd.edu/",
       "area": "Chemical Engineering",
       "studyType": "B.S.",
