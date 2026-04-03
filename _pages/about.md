@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: Department of Chemical Engineering | Molinaroli College of Engineering and Computing | University of South Carolina
+subtitle: "Department of Chemical Engineering | Molinaroli College of Engineering and Computing | University of South Carolina"
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  more_info: >
+  more_info: |
     <p><strong>Starting:</strong> August 2026</p>
     <p><strong>Office:</strong> TBD</p>
     <p><strong>University of South Carolina</strong></p>
