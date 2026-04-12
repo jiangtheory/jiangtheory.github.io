@@ -15,6 +15,11 @@ profile:
 
 social: true
 
+announcements:
+  enabled: true
+  scrollable: true
+  limit: 5
+
 ---
 <div style="margin-top: 2.5rem;"></div>
 
