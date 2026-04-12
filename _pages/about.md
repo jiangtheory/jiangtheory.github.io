@@ -7,45 +7,33 @@ subtitle: "Department of Chemical Engineering | Molinaroli College of Engineerin
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
     <p>Office: TBD</p>
     <p>University of South Carolina</p>
     <p>Columbia, SC 29208</p>
 
-# selected_papers: true
 social: true
-
-# announcements:
-#   enabled: false
-#   scrollable: true
-#   limit: 5
-
-# latest_posts:
-#   enabled: false
-#   scrollable: true
-#   limit: 3
-
 
 ---
 <div style="margin-top: 2.5rem;"></div>
 
-## ABOUT CMPD LAB
+## About the Jiang Group
 
-We develop **computational tools** to discover, design, and optimize **materials and product systems**, with a special focus on soft matter — such as polymers, colloids, gels, and complex fluids — and their applications in energy and sustainability.
+We develop **computational tools** to discover, design, and optimize **materials and product systems**, with a focus on soft materials and their applications in energy and sustainability.
 
 We integrate:
 
-- **Molecular modeling and simulation** to understand structure, dynamics, and transport phenomena in soft matter
+- **Molecular modeling and simulation** to understand structure, dynamics, and transport in soft materials
 - **Data science and machine learning** to learn interpretable process–structure–property relationships
-- **Process systems engineering** to navigate trade-offs and optimize designs under practical constraints
+- **Systems engineering** to navigate trade-offs and optimize designs under real-world constraints
 
 <div style="margin-top: 2.5rem;"></div>
 
-## JOIN US (PHD STUDENTS & POSTDOCS)
+## Join Us
 
-**Now recruiting for Fall 2026!**  
+We are recruiting **PhD students** and **postdoctoral researchers** for **Fall 2026** and **Spring 2027**.
 
-If you’re excited about building computational tools that connect **molecules → materials → products**, we’d love to hear from you.
+If you're drawn to problems at the intersection of theory, simulation, and machine learning — and care about soft materials for energy and sustainability — we'd be glad to hear from you.
 
-📩 **Email:** [sjiang87@shenglijiang.com](mailto:sjiang87@shenglijiang.com)  
+See the [Openings page](/opening/) for full details and application instructions, or email [sjiang87@shenglijiang.com](mailto:sjiang87@shenglijiang.com) directly.
