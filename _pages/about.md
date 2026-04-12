@@ -41,4 +41,4 @@ We are recruiting **PhD students** and **postdoctoral researchers** for **Fall 2
 
 If you're drawn to problems at the intersection of theory, simulation, and machine learning — and care about soft materials for energy and sustainability — we'd be glad to hear from you.
 
-See the [Openings page](/opening/) for full details and application instructions, or email [sjiang87@shenglijiang.com](mailto:sjiang87@shenglijiang.com) directly.
+See the [openings page](/opening/) for full details and application instructions, or email [sjiang87@shenglijiang.com](mailto:sjiang87@shenglijiang.com) directly.

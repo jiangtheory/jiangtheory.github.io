@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Opening
+title: opening
 permalink: /opening/
 subtitle: "Join the Jiang Group"
 nav: true
