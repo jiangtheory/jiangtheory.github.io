@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-opening",
+          title: "Opening",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/opening/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -403,12 +410,10 @@ ninja.data = [{
       },{id: "news-the-jiang-group-is-officially-launching-at-the-university-of-south-carolina-sparkles",
           title: 'The Jiang Group is officially launching at the University of South Carolina! :sparkles:...',
           description: "",
-          section: "News",},{id: "news-announcement-1",
-          title: 'Announcement_1',
+          section: "News",},{id: "news-new-course-launching-this-fall-eche-589-machine-learning-in-chemical-engineering-is-now-open-for-enrollment-mwf-10-50-11-40-am-learn-more",
+          title: 'New course launching this fall — ECHE 589: Machine Learning in Chemical Engineering...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_1/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
