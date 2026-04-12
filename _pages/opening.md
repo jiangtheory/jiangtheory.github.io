@@ -3,6 +3,8 @@ layout: page
 title: Opening
 permalink: /opening/
 subtitle: "Join the Jiang Group"
+nav: true
+nav_order: 6
 ---
 
 <div style="margin-top: 2.5rem;"></div>
