@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-04-13'
+  last_updated: '2026-04-22'
 papers:
   faN7n3oAAAAJ:2osOgNQ5qMEC:
-    citations: 45
+    citations: 46
     title: Fast predictions of liquid-phase acid-catalyzed reaction rates using molecular dynamics simulations and convolutional neural networks
     year: '2020'
   faN7n3oAAAAJ:3fE2CSJIrl8C:
-    citations: 27
+    citations: 28
     title: Online characterization of mixed plastic waste using machine learning and mid-infrared spectroscopy
     year: '2022'
   faN7n3oAAAAJ:5nxA0vEk-isC:
-    citations: 62
+    citations: 63
     title: 'Capturing molecular interactions in graph neural networks: a case study in multi-component phase equilibrium'
     year: '2023'
   faN7n3oAAAAJ:8k81kl-MbHgC:
@@ -42,11 +42,11 @@ papers:
     title: EC-MS dataset of electrocatalytic transformations of butane on Pt
     year: '2024'
   faN7n3oAAAAJ:W7OEmFMy1HYC:
-    citations: 73
+    citations: 74
     title: Using ATR-FTIR spectra and convolutional neural networks for characterizing mixed plastic waste
     year: '2021'
   faN7n3oAAAAJ:WF5omc3nYNoC:
-    citations: 61
+    citations: 62
     title: Accurate characterization of mixed plastic waste using machine learning and fast infrared spectroscopy
     year: '2021'
   faN7n3oAAAAJ:YFjsv_pBGBYC:
@@ -54,7 +54,7 @@ papers:
     title: 'TopoSolv-6k: Radii of Gyration and Shear-Rate Dependent Viscosities for Topologically and Chemically Diverse Coarse-Grained Polymers'
     year: '2025'
   faN7n3oAAAAJ:YOwf2qJgpHMC:
-    citations: 22
+    citations: 24
     title: Uncertainty quantification for molecular property predictions with graph neural architecture search
     year: '2024'
   faN7n3oAAAAJ:Zph67rFs4hoC:
@@ -106,7 +106,7 @@ papers:
     title: Accelerating multicomponent phase-coexistence calculations with physics-informed neural networks
     year: '2025'
   faN7n3oAAAAJ:qjMakFHDy7sC:
-    citations: 55
+    citations: 57
     title: Graph neural network architecture search for molecular property prediction
     year: '2020'
   faN7n3oAAAAJ:qxL8FJ1GzNcC:
