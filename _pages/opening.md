@@ -11,79 +11,75 @@ nav_order: 6
 
 ## Join the Jiang Group
 
-We are actively recruiting **PhD students** and **postdoctoral researchers** for **Fall 2026** and **Spring 2027**.
+We are actively recruiting **two fully funded PhD students** (Fall 2026 and Spring 2027) and **one postdoctoral researcher** to work on AI‑driven soft materials and product design for energy and the circular economy.
 
-The Jiang Group develops computational tools that bridge **molecules → materials → products**, with a focus on **soft materials** and **data- and physics-driven design**. If you're drawn to problems that sit at the intersection of theory, simulation, and machine learning — and you care about making materials that are more sustainable, functional, or recyclable — we'd be glad to hear from you.
+The Jiang Group develops computational tools that bridge **molecules → materials → products**, with an emphasis on combining molecular simulation, machine learning (especially generative AI and geometric/topological deep learning), and theory to guide the design of soft materials that are high‑performing, synthesizable, stable, and scalable.
 
-### Research Interests
+### Research Areas
 
-- **Multiscale modeling of soft materials**
-- **Physics-informed machine learning for materials and product design**
-- **Soft materials for energy and sustainability**, including:
-  - Polymer electrolytes and membranes for critical mineral extraction
-  - Biodegradable polymers and recyclable polymer blends
-  - Chemoresponsive soft materials for chemical sensing
-  - Data-driven design under real-world constraints (lifetime, safety, cost, circularity)
+1. Plastic upcycling and circular polymers  
+2. Polymer electrolytes and ion‑conducting membranes  
+3. Multiscale modeling of soft materials in complex fluids and processing  
 
 ---
 
 ## For Prospective PhD Students
 
-We welcome students with backgrounds in **Chemical Engineering**, **Materials Science**, **Chemistry**, or related fields. You don't need to have prior experience in every area we work in — curiosity and willingness to learn matter more.
+We welcome motivated and curious candidates with a bachelor’s degree in chemical engineering or a related field. A computational background is preferred but not required – curiosity and willingness to learn matter more.
 
-### Application Requirements & Deadlines
+### University Application Requirements
 
-**Required documents:**
-- Official transcripts
-- 2 letters of recommendation
-- CV / résumé
-- Personal statement (**please mention your interest in the Jiang Group and why**)
-- TOEFL or IELTS (for international students)
-- **GRE not required** (optional if you wish to submit)
+In addition to contacting us directly (see below), you have to apply through the USC Graduate School. Required materials typically include:
 
-**Preferred deadlines:**
-- **Fall 2026:** March 31, 2026
-- **Spring 2027:** October 31, 2026
-- **Summer 2027:** February 28, 2027
+- Official transcripts  
+- 2 letters of recommendation  
+- CV / résumé  
+- Personal statement (**please mention your interest in the Jiang Group and why**)  
+- TOEFL or IELTS (for international students)  
+- **GRE not required** (optional if you wish to submit)  
+
+**Preferred deadlines:**  
+- Fall 2026: March 31, 2026  
+- Spring 2027: October 31, 2026  
 
 *(Applications received after these dates are still welcome.)*
 
-For program details, see:
-- [USC Chemical Engineering PhD admissions](https://sc.edu/study/colleges_schools/graduate_school/apply/degree_programs-application-requirements/chemical-engineering-phd/)
-- [International applicants](https://sc.edu/study/colleges_schools/graduate_school/apply/international_applicants/)
+For full details, see:  
+- [USC Chemical Engineering PhD admissions](https://sc.edu/study/colleges_schools/graduate_school/apply/degree_programs-application-requirements/chemical-engineering-phd/)  
+- [International applicants](https://sc.edu/study/colleges_schools/graduate_school/apply/international_applicants/)  
 
 ---
 
 ## For Prospective Postdocs
 
-We are looking for candidates who have (or will soon complete) a PhD in a relevant field and are ready to lead their own research direction while working as part of a collaborative team.
+We seek candidates who have (or will soon complete) a PhD in a relevant field and are ready to lead their own research direction within a collaborative team. Preferred experience includes one or more of the following:
 
-### Preferred Background
-
-Strong candidates typically have experience in one or more of:
-- Molecular simulation (atomistic or coarse-grained MD/MC), statistical mechanics, or mesoscale modeling
-- Scientific computing and data analysis (Python, C++), reproducible workflows, and HPC
-- Machine learning for physical systems (physics-informed ML, generative models, geometric and topological deep learning, uncertainty quantification)
+- Molecular modeling and simulation, statistical mechanics, or mesoscale modeling  
+- Generative AI, geometric/topological deep learning, or physics‑informed machine learning  
+- Polymer science, complex fluids, or related areas  
 
 ---
 
 ## How to Apply / Get in Touch
 
-The best way to express interest is to **email me directly** with:
+Please email all materials as **a single PDF** to **sjiang87@shenglijiang.com** using the appropriate subject line:
 
-1. **CV** (including publications, if any)
-2. **Cover letter (1 page)** describing:
-   - Your research background and most relevant experience
-   - Why you are interested in the Jiang Group specifically
-   - Your preferred start date
-3. **1–2 representative papers** (postdoc applicants)
-4. Any additional materials you'd like to share
+- **PhD applicants:** `[Prospective Ph.D. - Your Name]`  
+- **Postdoc applicants:** `[Prospective Postdoc - Your Name]`  
 
-**Email:** sjiang87@shenglijiang.com
+### PhD applicants – include:
+- CV  
+- one‑page cover letter (experience, research interests, intended start term)  
+- Transcripts (unofficial copies accepted initially)  
+- Contact information for two references  
 
-**Please use the following subject line format:**
-- PhD applicants: `[Prospective PhD — Your Name — Fall 2026 / Spring 2027]`
-- Postdoc applicants: `[Prospective Postdoc — Your Name — Research Area]`
+### Postdoc applicants – include:
+- CV  
+- one‑page cover letter (experience, research interests, intended start term)  
+- one-two representative publications  
+- Contact information for three references  
+
+*For Fall 2026 PhD entry, interested applicants are encouraged to contact Dr. Jiang as soon as possible.*
 
 ---
 
