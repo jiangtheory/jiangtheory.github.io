@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-22'
+  last_updated: '2026-05-06'
 papers:
   faN7n3oAAAAJ:2osOgNQ5qMEC:
     citations: 46
@@ -14,7 +14,7 @@ papers:
     title: 'Capturing molecular interactions in graph neural networks: a case study in multi-component phase equilibrium'
     year: '2023'
   faN7n3oAAAAJ:8k81kl-MbHgC:
-    citations: 32
+    citations: 33
     title: Sensing gas mixtures by analyzing the spatiotemporal optical responses of liquid crystals using 3D convolutional neural networks
     year: '2022'
   faN7n3oAAAAJ:9yKSN-GCB0IC:
@@ -62,7 +62,7 @@ papers:
     title: Scalable extraction of information from spatiotemporal patterns of chemoresponsive liquid crystals using topological descriptors
     year: '2023'
   faN7n3oAAAAJ:aqlVkmm33-oC:
-    citations: 49
+    citations: 50
     title: Property-guided generation of complex polymer topologies using variational autoencoders
     year: '2024'
   faN7n3oAAAAJ:blknAaTinKkC:
@@ -74,7 +74,7 @@ papers:
     title: Scalable synthesis of uniform nanosized microporous carbon particles from rigid polymers for rapid ion and molecule adsorption
     year: '2018'
   faN7n3oAAAAJ:dhFuZR0502QC:
-    citations: 10
+    citations: 11
     title: "Understanding the interplay between electrocatalytic C(sp3)\u2012C(sp3) fragmentation and oxygenation reactions"
     year: '2024'
   faN7n3oAAAAJ:e5wmG9Sq2KIC:
@@ -102,7 +102,7 @@ papers:
     title: A Digital Twin Simulator of a Pastillation Process with Applications to Computer Vision-Based Control
     year: Unknown Year
   faN7n3oAAAAJ:qUcmZB5y_30C:
-    citations: 10
+    citations: 11
     title: Accelerating multicomponent phase-coexistence calculations with physics-informed neural networks
     year: '2025'
   faN7n3oAAAAJ:qjMakFHDy7sC:
@@ -118,6 +118,6 @@ papers:
     title: 'Understanding the electrochemical properties of naphthalene diimide: implication for stable and high-rate lithium-ion battery electrodes'
     year: '2018'
   faN7n3oAAAAJ:zYLM7Y9cAGgC:
-    citations: 50
+    citations: 51
     title: Using machine learning and liquid crystal droplets to identify and quantify endotoxins from different bacterial species
     year: '2021'
