@@ -1,5 +1,6 @@
 _site
 .bundle
+.claude/
 .DS_store
 .idea
 .jekyll-cache
@@ -11,5 +12,7 @@ _site
 assets/libs/
 assets/rendercv/rendercv_output/*.typ
 Gemfile.lock
+LOCAL_DEV.md
+POSITIONING_NOTES.md
 node_modules/
 vendor

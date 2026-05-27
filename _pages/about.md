@@ -25,19 +25,15 @@ announcements:
 
 ## About the Jiang Group
 
-We develop **computational methods** to design **soft materials and product systems** for energy and sustainability.
+We develop **physics-informed machine learning and AI methods** to understand, predict, and design **soft materials and chemical products** for energy and sustainability.
 
-Our approach integrates:
+These materials pose a multiscale design problem: molecular structure, processing conditions, and product performance are tightly coupled. We build predictive models that bridge these scales, learning from simulation, theory, and data while respecting physical constraints.
 
-- **Molecular modeling and simulation** to understand structure, dynamics, and transport in soft materials
-- **Machine learning** – including generative AI, geometric and topological deep learning, and physics‑informed models – to guide materials design
-- **Systems engineering** to bridge materials design and real‑world performance
+Our approach integrates three capabilities:
 
-Key research areas:
-
-1. **Plastic upcycling and circular polymers**
-2. **Polymer electrolytes and ion‑conducting membranes**
-3. **Multiscale modeling of soft materials in complex fluids and processing**
+- **Machine learning and AI methodology** — physics-informed neural networks, geometric and topological deep learning, and generative models
+- **Molecular simulation** — connecting molecular structure, dynamics, and interactions to macroscale properties
+- **Materials and product design** — translating predictive understanding into synthesizable, stable, and scalable materials
 
 We aim to create materials that are not only high‑performing, but also **synthesizable, stable, and scalable**.
 
@@ -47,6 +43,6 @@ We aim to create materials that are not only high‑performing, but also **synth
 
 We are recruiting **two PhD students** (start: Fall 2026 and Spring 2027) and **one postdoctoral researcher** to work on **AI‑driven soft materials design**.
 
-If you’re drawn to problems at the intersection of simulation, machine learning, and theory, we’d be glad to hear from you.
+If you’re drawn to problems at the intersection of machine learning, molecular simulation, and theory, we’d be glad to hear from you.
 
 See the [openings page](/opening/) for full details and application instructions, or email [sjiang87@shenglijiang.com](mailto:sjiang87@shenglijiang.com) directly.

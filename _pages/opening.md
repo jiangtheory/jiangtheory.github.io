@@ -13,13 +13,13 @@ nav_order: 6
 
 We are actively recruiting **two fully funded PhD students** (Fall 2026 and Spring 2027) and **one postdoctoral researcher** to work on AI‑driven soft materials and product design for energy and the circular economy.
 
-The Jiang Group develops computational tools that bridge **molecules → materials → products**, with an emphasis on combining molecular simulation, machine learning (especially generative AI and geometric/topological deep learning), and theory to guide the design of soft materials that are high‑performing, synthesizable, stable, and scalable.
+The Jiang Group develops **physics-informed machine learning and AI methods**, integrated with molecular simulation, to guide the design of **soft materials and chemical products** that are high‑performing, synthesizable, stable, and scalable. We work across the **molecules → materials → products** continuum, combining physics-informed neural networks, geometric and topological deep learning, and generative models with theory and simulation.
 
 ### Research Areas
 
-1. Plastic upcycling and circular polymers  
-2. Polymer electrolytes and ion‑conducting membranes  
-3. Multiscale modeling of soft materials in complex fluids and processing  
+1. Polymer recycling and upcycling  
+2. Polymer electrolytes and membranes  
+3. Polymer rheology and complex fluids  
 
 ---
 
