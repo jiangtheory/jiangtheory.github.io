@@ -33,9 +33,7 @@ Our approach integrates three capabilities:
 
 - **Machine learning and AI methodology** — physics-informed neural networks, geometric and topological deep learning, and generative models
 - **Molecular simulation** — connecting molecular structure, dynamics, and interactions to macroscale properties
-- **Materials and product design** — translating predictive understanding into synthesizable, stable, and scalable materials
-
-We aim to create materials that are not only high‑performing, but also **synthesizable, stable, and scalable**.
+- **Materials and product design** — translating predictive understanding into materials that are high‑performing, synthesizable, stable, and scalable
 
 <div style="margin-top: 2.5rem;"></div>
 
