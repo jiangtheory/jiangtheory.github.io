@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-05-06'
+  last_updated: '2026-05-29'
 papers:
   faN7n3oAAAAJ:2osOgNQ5qMEC:
-    citations: 46
+    citations: 47
     title: Fast predictions of liquid-phase acid-catalyzed reaction rates using molecular dynamics simulations and convolutional neural networks
     year: '2020'
   faN7n3oAAAAJ:3fE2CSJIrl8C:
-    citations: 28
+    citations: 31
     title: Online characterization of mixed plastic waste using machine learning and mid-infrared spectroscopy
     year: '2022'
   faN7n3oAAAAJ:5nxA0vEk-isC:
-    citations: 63
+    citations: 65
     title: 'Capturing molecular interactions in graph neural networks: a case study in multi-component phase equilibrium'
     year: '2023'
   faN7n3oAAAAJ:8k81kl-MbHgC:
@@ -34,7 +34,7 @@ papers:
     title: 'Convolutional neural networks: Basic concepts and applications in manufacturing'
     year: '2024'
   faN7n3oAAAAJ:R3hNpaxXUhUC:
-    citations: 7
+    citations: 9
     title: Physics-guided neural networks for transferable property prediction in architecturally diverse copolymers
     year: '2025'
   faN7n3oAAAAJ:TQgYirikUcIC:
@@ -42,11 +42,11 @@ papers:
     title: EC-MS dataset of electrocatalytic transformations of butane on Pt
     year: '2024'
   faN7n3oAAAAJ:W7OEmFMy1HYC:
-    citations: 74
+    citations: 76
     title: Using ATR-FTIR spectra and convolutional neural networks for characterizing mixed plastic waste
     year: '2021'
   faN7n3oAAAAJ:WF5omc3nYNoC:
-    citations: 62
+    citations: 63
     title: Accurate characterization of mixed plastic waste using machine learning and fast infrared spectroscopy
     year: '2021'
   faN7n3oAAAAJ:YFjsv_pBGBYC:
@@ -54,7 +54,7 @@ papers:
     title: 'TopoSolv-6k: Radii of Gyration and Shear-Rate Dependent Viscosities for Topologically and Chemically Diverse Coarse-Grained Polymers'
     year: '2025'
   faN7n3oAAAAJ:YOwf2qJgpHMC:
-    citations: 24
+    citations: 25
     title: Uncertainty quantification for molecular property predictions with graph neural architecture search
     year: '2024'
   faN7n3oAAAAJ:Zph67rFs4hoC:
@@ -62,7 +62,7 @@ papers:
     title: Scalable extraction of information from spatiotemporal patterns of chemoresponsive liquid crystals using topological descriptors
     year: '2023'
   faN7n3oAAAAJ:aqlVkmm33-oC:
-    citations: 50
+    citations: 53
     title: Property-guided generation of complex polymer topologies using variational autoencoders
     year: '2024'
   faN7n3oAAAAJ:blknAaTinKkC:
@@ -90,7 +90,7 @@ papers:
     title: 'PhaseSplit-FH3: A dataset of ternary separation per Flory-Huggins theory.'
     year: '2024'
   faN7n3oAAAAJ:hFOr9nPyWt4C:
-    citations: 6
+    citations: 7
     title: A new modeling framework for real-time extreme electricity price forecasting
     year: '2024'
   faN7n3oAAAAJ:hMod-77fHWUC:
@@ -102,15 +102,15 @@ papers:
     title: A Digital Twin Simulator of a Pastillation Process with Applications to Computer Vision-Based Control
     year: Unknown Year
   faN7n3oAAAAJ:qUcmZB5y_30C:
-    citations: 11
+    citations: 14
     title: Accelerating multicomponent phase-coexistence calculations with physics-informed neural networks
     year: '2025'
   faN7n3oAAAAJ:qjMakFHDy7sC:
-    citations: 57
+    citations: 58
     title: Graph neural network architecture search for molecular property prediction
     year: '2020'
   faN7n3oAAAAJ:qxL8FJ1GzNcC:
-    citations: 10
+    citations: 11
     title: Robust plastic waste classification using wavelet transform multi-resolution analysis and convolutional neural networks
     year: '2024'
   faN7n3oAAAAJ:u5HHmVD_uO8C:
