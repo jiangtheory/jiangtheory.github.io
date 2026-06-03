@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-06-01'
+  last_updated: '2026-06-03'
 papers:
   faN7n3oAAAAJ:2osOgNQ5qMEC:
     citations: 47
     title: Fast predictions of liquid-phase acid-catalyzed reaction rates using molecular dynamics simulations and convolutional neural networks
     year: '2020'
   faN7n3oAAAAJ:3fE2CSJIrl8C:
-    citations: 32
+    citations: 34
     title: Online characterization of mixed plastic waste using machine learning and mid-infrared spectroscopy
     year: '2022'
   faN7n3oAAAAJ:5nxA0vEk-isC:
-    citations: 65
+    citations: 66
     title: 'Capturing molecular interactions in graph neural networks: a case study in multi-component phase equilibrium'
     year: '2023'
   faN7n3oAAAAJ:8k81kl-MbHgC:
@@ -62,7 +62,7 @@ papers:
     title: Scalable extraction of information from spatiotemporal patterns of chemoresponsive liquid crystals using topological descriptors
     year: '2023'
   faN7n3oAAAAJ:aqlVkmm33-oC:
-    citations: 55
+    citations: 54
     title: Property-guided generation of complex polymer topologies using variational autoencoders
     year: '2024'
   faN7n3oAAAAJ:blknAaTinKkC:
@@ -74,7 +74,7 @@ papers:
     title: Scalable synthesis of uniform nanosized microporous carbon particles from rigid polymers for rapid ion and molecule adsorption
     year: '2018'
   faN7n3oAAAAJ:dhFuZR0502QC:
-    citations: 11
+    citations: 12
     title: "Understanding the interplay between electrocatalytic C(sp3)\u2012C(sp3) fragmentation and oxygenation reactions"
     year: '2024'
   faN7n3oAAAAJ:e5wmG9Sq2KIC:
@@ -106,7 +106,7 @@ papers:
     title: Accelerating multicomponent phase-coexistence calculations with physics-informed neural networks
     year: '2025'
   faN7n3oAAAAJ:qjMakFHDy7sC:
-    citations: 59
+    citations: 60
     title: Graph neural network architecture search for molecular property prediction
     year: '2020'
   faN7n3oAAAAJ:qxL8FJ1GzNcC:
