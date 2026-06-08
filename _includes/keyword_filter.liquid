@@ -1,0 +1,14 @@
+<div class="keyword-filter-bar">
+  <span class="keyword-filter-label">Filter by topic:</span>
+  <button class="keyword-filter-btn active" data-keyword="all" aria-pressed="true">All</button>
+  {% for kw in site.data.publication_keywords %}
+    <button
+      class="keyword-filter-btn"
+      data-keyword="{{ kw.slug }}"
+      aria-pressed="false"
+      style="--kw-color: {{ kw.color }}"
+    >
+      {{ kw.name }}
+    </button>
+  {% endfor %}
+</div>

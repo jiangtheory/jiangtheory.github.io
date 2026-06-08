@@ -31,10 +31,15 @@ document.addEventListener("DOMContentLoaded", function () {
       while (iterator && iterator.tagName !== "H2") {
         if (iterator.tagName === "OL") {
           const ol = iterator;
-          const unloadedSiblings = ol.querySelectorAll(":scope > li.unloaded");
           const totalSiblings = ol.querySelectorAll(":scope > li");
+          let visibleCount = 0;
+          totalSiblings.forEach(function (li) {
+            if (!li.classList.contains('unloaded') && !li.classList.contains('hidden-by-keyword')) {
+              visibleCount++;
+            }
+          });
 
-          if (unloadedSiblings.length === totalSiblings.length) {
+          if (visibleCount === 0) {
             ol.previousElementSibling.classList.add("unloaded"); // Add the '.unloaded' class to the previous grouping element (e.g. year)
             ol.classList.add("unloaded"); // Add the '.unloaded' class to the OL itself
           } else {
@@ -48,9 +53,16 @@ document.addEventListener("DOMContentLoaded", function () {
         element.classList.add("unloaded");
       }
     });
+
+    // Also update keyword-filter year headings after text search
+    if (window.updateKeywordYearHeadings) {
+      window.updateKeywordYearHeadings();
+    }
   };
 
   const updateInputField = () => {
+    // Skip keyword-filter hashes — they are handled by publication-filter.js
+    if (window.location.hash.startsWith('#keyword=')) return;
     const hashValue = decodeURIComponent(window.location.hash.substring(1)); // Remove the '#' character
     document.getElementById("bibsearch").value = hashValue;
     filterItems(hashValue);

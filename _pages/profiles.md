@@ -7,22 +7,21 @@ nav: true
 nav_order: 2
 
 profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
   - align: left
     image: prof_pic.jpg
     content: about_jiang.md
-    image_circular: false # crops the image to make it circular
+    image_circular: false
+    highlight: true
     more_info: >
-      <p>Office: TBD</p>
-      <p>University of South Carolina</p>
-      <p>Columbia, SC 29208</p>
+      <p><i class="fa-solid fa-location-dot"></i> Columbia, SC 29208</p>
+      <p><i class="fa-solid fa-building-columns"></i> University of South Carolina</p>
+      <p><i class="fa-solid fa-flask"></i> CMPD Laboratory</p>
   - align: left
-    image: South_Carolina_Gamecocks_logo.png
+    image: 
     content: about_phd.md
-    image_circular: false # crops the image to make it circular
+    image_circular: false
+    highlight: false
     more_info: >
-      <p>Office: TBD</p>
-      <p>University of South Carolina</p>
-      <p>Columbia, SC 29208</p>
+      <p><i class="fa-solid fa-graduation-cap"></i> PhD & Postdoc Positions</p>
+      <p><i class="fa-solid fa-calendar"></i> Fall 2026 · Spring 2027</p>
 ---

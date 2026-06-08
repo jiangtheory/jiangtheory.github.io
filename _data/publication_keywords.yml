@@ -1,0 +1,22 @@
+# Publication keyword/tag definitions for the filter bar and badges on the publications page.
+# Each keyword has a slug (used in papers.bib), a human-readable name, and a color from the PVDF palette.
+
+- slug: polymer-informatics
+  name: Polymer Informatics
+  color: "#E4256D"
+
+- slug: machine-learning
+  name: Machine Learning
+  color: "#7B4B94"
+
+- slug: circular-economy
+  name: Circular Economy
+  color: "#3CA474"
+
+- slug: sensing
+  name: Sensing
+  color: "#F5A623"
+
+- slug: process-energy
+  name: Process & Energy
+  color: "#2495C1"

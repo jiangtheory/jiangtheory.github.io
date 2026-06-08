@@ -1,10 +1,10 @@
 cv:
-  name: Shengli (Bruce) Jiang
-  label: Postdoctoral Associate | Lecturer
-  email: sj0161@princeton.edu
-  location: Princeton, NJ
+  name: Shengli Jiang, PhD
+  label: Assistant Professor
+  email: sjiang87@shenglijiang.com
+  location: Columbia, SC
   image: ""
-  summary: A computational chemical engineer developing physics-informed machine learning and AI methods, integrated with molecular simulation, to design soft materials and chemical products for energy and sustainability.
+  summary: Develops physics-informed machine learning and AI methods, integrated with molecular simulation, to design soft materials and chemical products for energy and sustainability.
 
   social_networks:
     - network: X
@@ -16,8 +16,8 @@ cv:
 
   address:
     street: ""
-    city: Princeton
-    region: New Jersey
+    city: Columbia
+    region: South Carolina
     postalCode: ""
     countryCode: US
 
@@ -33,7 +33,7 @@ cv:
         score: ""
         courses: ""
         highlights:
-          - Advisor: Professor Victor M. Zavala
+          - "Advisor: Professor Victor M. Zavala"
           - Focused on machine learning for sensor design, solvent systems, electrochemistry, and sustainability.
 
       - institution: University of California, San Diego
@@ -47,11 +47,21 @@ cv:
           - Worked with Professor Zheng Chen on lithium-ion battery cathode design.
 
     Experience:
+      - company: University of South Carolina
+        position: Assistant Professor
+        location: Department of Chemical Engineering, Columbia, SC
+        start_date: 2025
+        end_date: Present
+        summary: "Principal Investigator, Computational Materials and Product Design (CMPD) Laboratory. Tenure-track faculty developing physics-informed machine learning and AI methods for soft materials design."
+        highlights:
+          - Physics-informed machine learning for polymer and materials design
+          - Molecular simulation and multiscale modeling
+
       - company: Princeton University
         position: Postdoctoral Associate
         location: Department of Chemical and Biological Engineering, Princeton, NJ
         start_date: 2023
-        end_date: Present
+        end_date: 2025
         summary: "Advisor: Professor Michael A. Webb. Integrate molecular simulation and machine learning to design polymers with tailored properties."
         highlights:
           - Physics-informed machine learning for polymer design

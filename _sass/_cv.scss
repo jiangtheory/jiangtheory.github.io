@@ -39,8 +39,313 @@ a.btncv:hover {
 }
 
 /*****************************
- * CV TIME_TABLE styles
+ * CV clean academic timeline styles
  *****************************/
+
+// Contact header
+.cv-header {
+  margin-bottom: 1.8rem;
+
+  .cv-name {
+    font-size: 1.6rem;
+    font-weight: 600;
+    margin-bottom: 0.3rem;
+    color: var(--global-text-color);
+  }
+
+  .cv-meta {
+    font-size: 0.9rem;
+    color: var(--global-text-color-light);
+    margin-bottom: 0.4rem;
+
+    .cv-label {
+      font-weight: 500;
+    }
+
+    .cv-meta-sep {
+      margin: 0 0.35rem;
+      color: var(--global-divider-color);
+    }
+
+    a {
+      color: var(--global-theme-color);
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .cv-social {
+    display: flex;
+    gap: 0.6rem;
+
+    .cv-social-link {
+      color: var(--global-text-color-light);
+      font-size: 1rem;
+      transition: color 0.15s ease;
+
+      &:hover {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+}
+
+// Summary block
+.cv-summary {
+  border-left: 3px solid var(--global-theme-color);
+  padding: 0.6rem 1rem;
+  margin-bottom: 2rem;
+  font-size: 0.9rem;
+  color: var(--global-text-color-light);
+  line-height: 1.6;
+
+  p {
+    margin: 0;
+  }
+}
+
+// Section wrapper
+.cv-section {
+  margin-bottom: 2rem;
+}
+
+.cv-section-title {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--global-text-color);
+  padding-bottom: 0.35rem;
+  margin-bottom: 1rem;
+  border-bottom: 1.5px solid var(--global-divider-color);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+// Timeline container
+.cv-timeline {
+  position: relative;
+}
+
+// Single timeline entry
+.cv-entry {
+  position: relative;
+  padding-left: 110px;
+  margin-bottom: 1.6rem;
+
+  // Timeline dot
+  &::before {
+    content: '';
+    position: absolute;
+    left: 82px;
+    top: 0.45rem;
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+    background: var(--global-theme-color);
+    border: 2px solid var(--global-bg-color);
+    z-index: 1;
+  }
+
+  // Timeline line
+  &:not(:last-child)::after {
+    content: '';
+    position: absolute;
+    left: 86px;
+    top: 1rem;
+    bottom: -1rem;
+    width: 1.5px;
+    background: var(--global-divider-color);
+  }
+}
+
+// Date column (left of timeline)
+.cv-entry-date {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 78px;
+  text-align: right;
+  padding-right: 14px;
+
+  .cv-date-range {
+    display: block;
+    font-size: 0.72rem;
+    font-weight: 600;
+    color: var(--global-theme-color);
+    line-height: 1.3;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+
+  .cv-entry-location {
+    display: block;
+    font-size: 0.65rem;
+    color: var(--global-text-color-light);
+    line-height: 1.4;
+    margin-top: 0.15rem;
+  }
+}
+
+// Content column (right of timeline)
+.cv-entry-content {
+  .cv-entry-title {
+    font-size: 0.95rem;
+    font-weight: 600;
+    margin-bottom: 0.15rem;
+    color: var(--global-text-color);
+
+    a {
+      color: inherit;
+      text-decoration: none;
+
+      &:hover {
+        color: var(--global-theme-color);
+      }
+    }
+
+    .cv-entry-area {
+      font-weight: 400;
+      font-style: italic;
+      color: var(--global-text-color-light);
+    }
+  }
+
+  .cv-entry-subtitle {
+    font-size: 0.85rem;
+    color: var(--global-text-color);
+    margin-bottom: 0.2rem;
+  }
+
+  .cv-entry-description {
+    font-size: 0.82rem;
+    color: var(--global-text-color-light);
+    line-height: 1.5;
+    margin-bottom: 0.4rem;
+    font-style: italic;
+  }
+
+  .cv-entry-highlights {
+    margin: 0;
+    padding-left: 1.2rem;
+    font-size: 0.82rem;
+    color: var(--global-text-color-light);
+    line-height: 1.55;
+
+    li {
+      margin-bottom: 0.15rem;
+    }
+  }
+}
+
+// Professional Services (no timeline, cleaner)
+.cv-services {
+  .cv-entry {
+    padding-left: 0;
+    margin-bottom: 1rem;
+
+    &::before,
+    &::after {
+      display: none;
+    }
+
+    .cv-entry-date {
+      position: static;
+      width: auto;
+      text-align: left;
+      padding-right: 0;
+      margin-bottom: 0.2rem;
+
+      .cv-date-range {
+        display: inline;
+      }
+    }
+
+    .cv-entry-content {
+      .cv-entry-title {
+        font-size: 0.88rem;
+      }
+    }
+  }
+}
+
+// Awards list
+.cv-awards-list {
+  .cv-award {
+    display: flex;
+    align-items: baseline;
+    gap: 1rem;
+    margin-bottom: 0.8rem;
+    padding-bottom: 0.6rem;
+    border-bottom: 1px dotted var(--global-divider-color);
+
+    &:last-child {
+      border-bottom: none;
+    }
+
+    .cv-award-date {
+      flex-shrink: 0;
+      width: 70px;
+      font-size: 0.72rem;
+      font-weight: 600;
+      color: var(--global-theme-color);
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+      text-align: right;
+    }
+
+    .cv-award-content {
+      flex: 1;
+
+      .cv-award-title {
+        font-size: 0.88rem;
+        font-weight: 600;
+        margin-bottom: 0.1rem;
+        color: var(--global-text-color);
+
+        a {
+          color: inherit;
+          text-decoration: none;
+
+          &:hover {
+            color: var(--global-theme-color);
+          }
+        }
+      }
+
+      .cv-awarder {
+        font-size: 0.82rem;
+        color: var(--global-text-color-light);
+        margin-bottom: 0.15rem;
+      }
+
+      .cv-award-summary {
+        font-size: 0.78rem;
+        color: var(--global-text-color-light);
+        font-style: italic;
+        margin: 0;
+      }
+    }
+  }
+}
+
+// Generic bullet list (for custom sections)
+.cv-bullet-list {
+  padding-left: 1.2rem;
+  font-size: 0.85rem;
+  color: var(--global-text-color-light);
+}
+
+.cv-label-entry {
+  font-size: 0.85rem;
+  color: var(--global-text-color-light);
+  margin-bottom: 0.4rem;
+}
+
+// ============================================================
+// Legacy styles retained for JSONResume path and compatibility
+// ============================================================
 
 p.location {
   font-size: 0.7rem;
@@ -82,10 +387,6 @@ div.container-links {
   margin-bottom: 0.5rem;
 }
 
-/*****************************
- * CV MAP styles
- *****************************/
-
 div.container-pdf {
   display: flex;
   flex-direction: row;
@@ -93,10 +394,6 @@ div.container-pdf {
   align-items: center;
   justify-content: flex-start;
 }
-
-/*****************************
- * CV LIST_GROUPS styles
- *****************************/
 
 div.list-groups {
   display: flex;

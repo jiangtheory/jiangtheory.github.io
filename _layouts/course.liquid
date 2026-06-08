@@ -4,21 +4,38 @@ layout: page
 <div class="course">
   {% if page.instructor or page.term or page.location or page.time %}
     <div class="course-info">
-      {% if page.instructor %}
-        <p><strong>Instructor:</strong> {{ page.instructor }}</p>
-      {% endif %}
+      <div class="course-info-grid">
+        {% if page.instructor %}
+          <div class="course-info-item">
+            <span class="course-info-label">Instructor</span>
+            <span class="course-info-value">{{ page.instructor }}</span>
+          </div>
+        {% endif %}
+        {% if page.term %}
+          <div class="course-info-item">
+            <span class="course-info-label">Term</span>
+            <span class="course-info-value">{{ page.term }} {{ page.year }}</span>
+          </div>
+        {% endif %}
+        {% if page.time %}
+          <div class="course-info-item">
+            <span class="course-info-label">Time</span>
+            <span class="course-info-value">{{ page.time }}</span>
+          </div>
+        {% endif %}
+        {% if page.location %}
+          <div class="course-info-item">
+            <span class="course-info-label">Location</span>
+            <span class="course-info-value">{{ page.location }}</span>
+          </div>
+        {% endif %}
+      </div>
+    </div>
+  {% endif %}
 
-      {% if page.term %}
-        <p><strong>Term:</strong> {{ page.term }}</p>
-      {% endif %}
-
-      {% if page.location %}
-        <p><strong>Location:</strong> {{ page.location }}</p>
-      {% endif %}
-
-      {% if page.time %}
-        <p><strong>Time:</strong> {{ page.time }}</p>
-      {% endif %}
+  {% if page.description %}
+    <div class="course-description">
+      <p>{{ page.description }}</p>
     </div>
   {% endif %}
 
@@ -26,50 +43,50 @@ layout: page
 
   {% if page.schedule %}
     <h2>Schedule</h2>
-    <table class="table table-sm table-responsive">
-      <thead>
-        <tr>
-          <th>Week</th>
-          <th>Date</th>
-          <th>Topic</th>
-          <th>Materials</th>
-        </tr>
-      </thead>
-      <tbody>
-        {% for entry in page.schedule %}
+    <div class="course-schedule">
+      <table class="schedule-table">
+        <thead>
           <tr>
-            <td>{{ entry.week }}</td>
-            <td>{{ entry.date }}</td>
-            <td>
-              {% if entry.topic %}
-                <strong>{{ entry.topic }}</strong>
-              {% endif %}
-              {% if entry.description %}
-                <div class="schedule-description">{{ entry.description | markdownify }}</div>
-              {% endif %}
-            </td>
-            <td>
-              {% if entry.materials %}
-                <ul class="schedule-materials">
-                  {% for material in entry.materials %}
-                    <li>
-                      {% if material.url %}
-                        {% if material.url contains '://' %}
-                          <a href="{{ material.url }}" target="_blank">{{ material.name }}</a>
-                        {% else %}
-                          <a href="{{ material.url | relative_url }}" target="_blank">{{ material.name }}</a>
-                        {% endif %}
-                      {% else %}
-                        {{ material.name }}
-                      {% endif %}
-                    </li>
-                  {% endfor %}
-                </ul>
-              {% endif %}
-            </td>
+            <th class="schedule-week">Week</th>
+            <th class="schedule-date">Date</th>
+            <th class="schedule-topic">Topic</th>
+            <th class="schedule-materials">Materials</th>
           </tr>
-        {% endfor %}
-      </tbody>
-    </table>
+        </thead>
+        <tbody>
+          {% for entry in page.schedule %}
+            <tr>
+              <td class="schedule-week">
+                <span class="week-badge">{{ entry.week }}</span>
+              </td>
+              <td class="schedule-date">{{ entry.date }}</td>
+              <td class="schedule-topic">
+                {% if entry.topic %}
+                  <strong>{{ entry.topic }}</strong>
+                {% endif %}
+                {% if entry.description %}
+                  <div class="schedule-description">{{ entry.description | markdownify }}</div>
+                {% endif %}
+              </td>
+              <td class="schedule-materials">
+                {% if entry.materials %}
+                  {% for material in entry.materials %}
+                    {% if material.url %}
+                      {% if material.url contains '://' %}
+                        <a href="{{ material.url }}" class="material-link" target="_blank">{{ material.name }}</a>
+                      {% else %}
+                        <a href="{{ material.url | relative_url }}" class="material-link" target="_blank">{{ material.name }}</a>
+                      {% endif %}
+                    {% else %}
+                      <span class="material-link muted">{{ material.name }}</span>
+                    {% endif %}
+                  {% endfor %}
+                {% endif %}
+              </td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
   {% endif %}
 </div>
