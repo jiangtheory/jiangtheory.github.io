@@ -18,14 +18,14 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "",
+          description: "Past work, grouped by year. Use the topic buttons to filter, or the search bar to find specific papers.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "",
+          description: "Courses taught by Prof. Jiang at the University of South Carolina and Princeton University.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -483,6 +483,20 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/shengli-jiang-59500085", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/sjiang87", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/ShengliJiang", "_blank");
         },
       },{
         id: 'social-scholar',
