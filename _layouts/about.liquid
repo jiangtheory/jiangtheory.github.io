@@ -40,6 +40,10 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
+    <!-- Interactive polymer simulation -->
+    <canvas id="polymer-canvas" class="polymer-canvas"></canvas>
+    <script src="{{ '/assets/js/polymer-canvas.js' | relative_url | bust_file_cache }}"></script>
+
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>

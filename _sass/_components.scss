@@ -500,3 +500,14 @@ ul.task-list input[type="checkbox"] {
     font-size: 0.92rem;
   }
 }
+
+// Polymer simulation canvas
+.polymer-canvas {
+  display: block;
+  width: 100%;
+  margin: 1.5rem 0 2rem;
+  border-radius: 0.5rem;
+  cursor: default;
+  background: color-mix(in srgb, var(--global-bg-color) 60%, transparent);
+  border: 1px solid var(--global-divider-color);
+}
