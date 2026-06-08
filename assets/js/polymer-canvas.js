@@ -65,6 +65,7 @@ document.addEventListener("DOMContentLoaded", function () {
   // --- Fixed-timestep accumulator (60 Hz physics) ---
   const PHYSICS_DT = 1000 / 60; // 16.67 ms per physics step
   const MAX_STEPS_PER_FRAME = 3; // guard against spiral-of-death
+  const DT = 0.35; // integration damping factor (original tuning)
   let physAccum = 0;
   let lastTime = 0;
 
@@ -152,7 +153,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // --- Scale physics parameters for current canvas width ---
   function rescalePhysics() {
-    physScale = Math.max(0.35, Math.min(1.2, width / REFERENCE_WIDTH));
+    physScale = Math.max(0.35, Math.min(1.0, width / REFERENCE_WIDTH));
     BEAD_RADIUS = BASE_BEAD_RADIUS * physScale;
     SOLVENT_RADIUS = BASE_SOLVENT_RADIUS * physScale;
     BOND_LENGTH = BASE_BOND_LENGTH * physScale;
@@ -315,12 +316,12 @@ document.addEventListener("DOMContentLoaded", function () {
             p1y = dy2 - cs * dy1;
           const p2x = dx1 - cs * dx2,
             p2y = dy1 - cs * dy2;
-          a.vx += p1x * f;
-          a.vy += p1y * f;
-          c.vx += p2x * f;
-          c.vy += p2y * f;
-          b.vx -= (p1x + p2x) * f;
-          b.vy -= (p1y + p2y) * f;
+          a.vx += p1x * f * DT;
+          a.vy += p1y * f * DT;
+          c.vx += p2x * f * DT;
+          c.vy += p2y * f * DT;
+          b.vx -= (p1x + p2x) * f * DT;
+          b.vy -= (p1y + p2y) * f * DT;
         }
       }
     }
@@ -378,14 +379,14 @@ document.addEventListener("DOMContentLoaded", function () {
               dx /= mag;
               dy /= mag;
               const f2 = force * 2;
-              a.vx += dx * f2;
-              a.vy += dy * f2;
-              b.vx += dx * f2;
-              b.vy += dy * f2;
-              c.vx -= dx * f2;
-              c.vy -= dy * f2;
-              d.vx -= dx * f2;
-              d.vy -= dy * f2;
+              a.vx += dx * f2 * DT;
+              a.vy += dy * f2 * DT;
+              b.vx += dx * f2 * DT;
+              b.vy += dy * f2 * DT;
+              c.vx -= dx * f2 * DT;
+              c.vy -= dy * f2 * DT;
+              d.vx -= dx * f2 * DT;
+              d.vy -= dy * f2 * DT;
             }
           }
         }
@@ -393,7 +394,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   }
 
-  // --- Core physics (one fixed 60 Hz step — no DT multiplier needed) ---
+  // --- Core physics (one fixed 60 Hz step) ---
   function stepPhysics() {
     const allBeads = [];
     chains.forEach((chain, ci) => {
@@ -408,8 +409,8 @@ document.addEventListener("DOMContentLoaded", function () {
       b.vx += (SHEAR_RATE * (b.y - height / 2)) / (height / 2);
       b.vx *= FRICTION;
       b.vy *= FRICTION;
-      b.x += b.vx;
-      b.y += b.vy;
+      b.x += b.vx * DT;
+      b.y += b.vy * DT;
       b.x = wrap(b.x, width);
       b.y = wrap(b.y, height);
     }
@@ -433,10 +434,10 @@ document.addEventListener("DOMContentLoaded", function () {
           const force = REPULSION_STRENGTH / (dist * dist);
           const fx = (dx / dist) * force,
             fy = (dy / dist) * force;
-          a.vx += fx;
-          a.vy += fy;
-          b.vx -= fx;
-          b.vy -= fy;
+          a.vx += fx * DT;
+          a.vy += fy * DT;
+          b.vx -= fx * DT;
+          b.vy -= fy * DT;
         }
       }
     }
@@ -453,8 +454,8 @@ document.addEventListener("DOMContentLoaded", function () {
       s.vx += (SHEAR_RATE * (s.y - height / 2)) / (height / 2);
       s.vx *= SOLVENT_FRICTION;
       s.vy *= SOLVENT_FRICTION;
-      s.x += s.vx;
-      s.y += s.vy;
+      s.x += s.vx * DT;
+      s.y += s.vy * DT;
       s.x = wrap(s.x, width);
       s.y = wrap(s.y, height);
     }
