@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-06-03'
+  last_updated: '2026-06-22'
 papers:
   faN7n3oAAAAJ:2osOgNQ5qMEC:
     citations: 47
     title: Fast predictions of liquid-phase acid-catalyzed reaction rates using molecular dynamics simulations and convolutional neural networks
     year: '2020'
   faN7n3oAAAAJ:3fE2CSJIrl8C:
-    citations: 34
+    citations: 35
     title: Online characterization of mixed plastic waste using machine learning and mid-infrared spectroscopy
     year: '2022'
   faN7n3oAAAAJ:5nxA0vEk-isC:
-    citations: 66
+    citations: 70
     title: 'Capturing molecular interactions in graph neural networks: a case study in multi-component phase equilibrium'
     year: '2023'
   faN7n3oAAAAJ:8k81kl-MbHgC:
@@ -26,27 +26,35 @@ papers:
     title: 'ToPoRg-18k: dataset of single-chain radii of gyration distribution for 18,450 architecturally diverse and chemically patterned coarse-grained polymers'
     year: '2025'
   faN7n3oAAAAJ:GnPB-g6toBAC:
-    citations: 0
+    citations: 1
     title: Generative active learning across polymer architectures and solvophobicities for targeted rheological behavior
     year: '2025'
   faN7n3oAAAAJ:MXK_kJrjxJIC:
     citations: 19
     title: 'Convolutional neural networks: Basic concepts and applications in manufacturing'
     year: '2024'
+  faN7n3oAAAAJ:NaGl4SEjCO4C:
+    citations: 0
+    title: Range-Aware Bayesian Optimization for Discovering Diverse Designs within Target Property Windows
+    year: '2026'
   faN7n3oAAAAJ:R3hNpaxXUhUC:
     citations: 10
     title: Physics-guided neural networks for transferable property prediction in architecturally diverse copolymers
     year: '2025'
+  faN7n3oAAAAJ:RGFaLdJalmkC:
+    citations: 0
+    title: 'Combinatorial Polymer Design: From Flow-Driven Structure to Structure-Driven Flow'
+    year: '2026'
   faN7n3oAAAAJ:TQgYirikUcIC:
     citations: 1
     title: EC-MS dataset of electrocatalytic transformations of butane on Pt
     year: '2024'
   faN7n3oAAAAJ:W7OEmFMy1HYC:
-    citations: 76
+    citations: 78
     title: Using ATR-FTIR spectra and convolutional neural networks for characterizing mixed plastic waste
     year: '2021'
   faN7n3oAAAAJ:WF5omc3nYNoC:
-    citations: 63
+    citations: 64
     title: Accurate characterization of mixed plastic waste using machine learning and fast infrared spectroscopy
     year: '2021'
   faN7n3oAAAAJ:YFjsv_pBGBYC:
@@ -62,7 +70,7 @@ papers:
     title: Scalable extraction of information from spatiotemporal patterns of chemoresponsive liquid crystals using topological descriptors
     year: '2023'
   faN7n3oAAAAJ:aqlVkmm33-oC:
-    citations: 54
+    citations: 58
     title: Property-guided generation of complex polymer topologies using variational autoencoders
     year: '2024'
   faN7n3oAAAAJ:blknAaTinKkC:
@@ -82,7 +90,7 @@ papers:
     title: A digital twin simulator of a pastillation process with applications to automatic control based on computer vision
     year: '2025'
   faN7n3oAAAAJ:eQOLeE2rZwMC:
-    citations: 54
+    citations: 55
     title: 'Convolutional neural nets in chemical engineering: Foundations, computations, and applications'
     year: '2021'
   faN7n3oAAAAJ:hC7cP41nSMkC:
@@ -106,15 +114,15 @@ papers:
     title: Accelerating multicomponent phase-coexistence calculations with physics-informed neural networks
     year: '2025'
   faN7n3oAAAAJ:qjMakFHDy7sC:
-    citations: 60
+    citations: 63
     title: Graph neural network architecture search for molecular property prediction
     year: '2020'
   faN7n3oAAAAJ:qxL8FJ1GzNcC:
-    citations: 11
+    citations: 12
     title: Robust plastic waste classification using wavelet transform multi-resolution analysis and convolutional neural networks
     year: '2024'
   faN7n3oAAAAJ:u5HHmVD_uO8C:
-    citations: 103
+    citations: 104
     title: 'Understanding the electrochemical properties of naphthalene diimide: implication for stable and high-rate lithium-ion battery electrodes'
     year: '2018'
   faN7n3oAAAAJ:zYLM7Y9cAGgC:
