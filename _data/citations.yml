@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-06-29'
 papers:
   faN7n3oAAAAJ:2osOgNQ5qMEC:
     citations: 47
@@ -30,7 +30,7 @@ papers:
     title: Generative active learning across polymer architectures and solvophobicities for targeted rheological behavior
     year: '2025'
   faN7n3oAAAAJ:MXK_kJrjxJIC:
-    citations: 19
+    citations: 20
     title: 'Convolutional neural networks: Basic concepts and applications in manufacturing'
     year: '2024'
   faN7n3oAAAAJ:NaGl4SEjCO4C:
@@ -62,11 +62,11 @@ papers:
     title: 'TopoSolv-6k: Radii of Gyration and Shear-Rate Dependent Viscosities for Topologically and Chemically Diverse Coarse-Grained Polymers'
     year: '2025'
   faN7n3oAAAAJ:YOwf2qJgpHMC:
-    citations: 25
+    citations: 28
     title: Uncertainty quantification for molecular property predictions with graph neural architecture search
     year: '2024'
   faN7n3oAAAAJ:Zph67rFs4hoC:
-    citations: 7
+    citations: 8
     title: Scalable extraction of information from spatiotemporal patterns of chemoresponsive liquid crystals using topological descriptors
     year: '2023'
   faN7n3oAAAAJ:aqlVkmm33-oC:
@@ -86,11 +86,11 @@ papers:
     title: "Understanding the interplay between electrocatalytic C(sp3)\u2012C(sp3) fragmentation and oxygenation reactions"
     year: '2024'
   faN7n3oAAAAJ:e5wmG9Sq2KIC:
-    citations: 1
+    citations: 2
     title: A digital twin simulator of a pastillation process with applications to automatic control based on computer vision
     year: '2025'
   faN7n3oAAAAJ:eQOLeE2rZwMC:
-    citations: 55
+    citations: 56
     title: 'Convolutional neural nets in chemical engineering: Foundations, computations, and applications'
     year: '2021'
   faN7n3oAAAAJ:hC7cP41nSMkC:
@@ -98,7 +98,7 @@ papers:
     title: 'PhaseSplit-FH3: A dataset of ternary separation per Flory-Huggins theory.'
     year: '2024'
   faN7n3oAAAAJ:hFOr9nPyWt4C:
-    citations: 7
+    citations: 8
     title: A new modeling framework for real-time extreme electricity price forecasting
     year: '2024'
   faN7n3oAAAAJ:hMod-77fHWUC:
@@ -126,6 +126,6 @@ papers:
     title: 'Understanding the electrochemical properties of naphthalene diimide: implication for stable and high-rate lithium-ion battery electrodes'
     year: '2018'
   faN7n3oAAAAJ:zYLM7Y9cAGgC:
-    citations: 51
+    citations: 52
     title: Using machine learning and liquid crystal droplets to identify and quantify endotoxins from different bacterial species
     year: '2021'
