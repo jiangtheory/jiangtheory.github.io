@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-07-06'
 papers:
   faN7n3oAAAAJ:2osOgNQ5qMEC:
-    citations: 47
+    citations: 48
     title: Fast predictions of liquid-phase acid-catalyzed reaction rates using molecular dynamics simulations and convolutional neural networks
     year: '2020'
   faN7n3oAAAAJ:3fE2CSJIrl8C:
@@ -14,7 +14,7 @@ papers:
     title: 'Capturing molecular interactions in graph neural networks: a case study in multi-component phase equilibrium'
     year: '2023'
   faN7n3oAAAAJ:8k81kl-MbHgC:
-    citations: 33
+    citations: 34
     title: Sensing gas mixtures by analyzing the spatiotemporal optical responses of liquid crystals using 3D convolutional neural networks
     year: '2022'
   faN7n3oAAAAJ:9yKSN-GCB0IC:
@@ -38,7 +38,7 @@ papers:
     title: Range-Aware Bayesian Optimization for Discovering Diverse Designs within Target Property Windows
     year: '2026'
   faN7n3oAAAAJ:R3hNpaxXUhUC:
-    citations: 10
+    citations: 11
     title: Physics-guided neural networks for transferable property prediction in architecturally diverse copolymers
     year: '2025'
   faN7n3oAAAAJ:RGFaLdJalmkC:
@@ -70,7 +70,7 @@ papers:
     title: Scalable extraction of information from spatiotemporal patterns of chemoresponsive liquid crystals using topological descriptors
     year: '2023'
   faN7n3oAAAAJ:aqlVkmm33-oC:
-    citations: 58
+    citations: 59
     title: Property-guided generation of complex polymer topologies using variational autoencoders
     year: '2024'
   faN7n3oAAAAJ:blknAaTinKkC:
@@ -114,11 +114,11 @@ papers:
     title: Accelerating multicomponent phase-coexistence calculations with physics-informed neural networks
     year: '2025'
   faN7n3oAAAAJ:qjMakFHDy7sC:
-    citations: 63
+    citations: 64
     title: Graph neural network architecture search for molecular property prediction
     year: '2020'
   faN7n3oAAAAJ:qxL8FJ1GzNcC:
-    citations: 12
+    citations: 13
     title: Robust plastic waste classification using wavelet transform multi-resolution analysis and convolutional neural networks
     year: '2024'
   faN7n3oAAAAJ:u5HHmVD_uO8C:
