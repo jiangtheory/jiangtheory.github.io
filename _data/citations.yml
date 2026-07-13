@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-07-13'
 papers:
   faN7n3oAAAAJ:2osOgNQ5qMEC:
     citations: 48
@@ -10,7 +10,7 @@ papers:
     title: Online characterization of mixed plastic waste using machine learning and mid-infrared spectroscopy
     year: '2022'
   faN7n3oAAAAJ:5nxA0vEk-isC:
-    citations: 70
+    citations: 71
     title: 'Capturing molecular interactions in graph neural networks: a case study in multi-component phase equilibrium'
     year: '2023'
   faN7n3oAAAAJ:8k81kl-MbHgC:
@@ -62,7 +62,7 @@ papers:
     title: 'TopoSolv-6k: Radii of Gyration and Shear-Rate Dependent Viscosities for Topologically and Chemically Diverse Coarse-Grained Polymers'
     year: '2025'
   faN7n3oAAAAJ:YOwf2qJgpHMC:
-    citations: 28
+    citations: 30
     title: Uncertainty quantification for molecular property predictions with graph neural architecture search
     year: '2024'
   faN7n3oAAAAJ:Zph67rFs4hoC:
@@ -82,7 +82,7 @@ papers:
     title: Scalable synthesis of uniform nanosized microporous carbon particles from rigid polymers for rapid ion and molecule adsorption
     year: '2018'
   faN7n3oAAAAJ:dhFuZR0502QC:
-    citations: 12
+    citations: 13
     title: "Understanding the interplay between electrocatalytic C(sp3)\u2012C(sp3) fragmentation and oxygenation reactions"
     year: '2024'
   faN7n3oAAAAJ:e5wmG9Sq2KIC:
@@ -90,7 +90,7 @@ papers:
     title: A digital twin simulator of a pastillation process with applications to automatic control based on computer vision
     year: '2025'
   faN7n3oAAAAJ:eQOLeE2rZwMC:
-    citations: 56
+    citations: 57
     title: 'Convolutional neural nets in chemical engineering: Foundations, computations, and applications'
     year: '2021'
   faN7n3oAAAAJ:hC7cP41nSMkC:
