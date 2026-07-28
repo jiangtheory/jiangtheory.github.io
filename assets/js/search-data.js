@@ -410,8 +410,8 @@ ninja.data = [{
       },{id: "news-the-jiang-group-is-officially-launching-at-the-university-of-south-carolina-sparkles",
           title: 'The Jiang Group is officially launching at the University of South Carolina! :sparkles:...',
           description: "",
-          section: "News",},{id: "news-our-new-preprint-range-aware-bayesian-optimization-for-discovering-diverse-designs-within-target-property-windows-is-now-available-on-arxiv-read-the-paper",
-          title: 'Our new preprint, Range-Aware Bayesian Optimization for Discovering Diverse Designs within Target Property...',
+          section: "News",},{id: "news-our-paper-range-aware-bayesian-optimization-for-discovering-diverse-designs-within-target-property-windows-is-now-published-in-digital-discovery-read-the-paper",
+          title: 'Our paper, Range-Aware Bayesian Optimization for Discovering Diverse Designs within Target Property Windows,...',
           description: "",
           section: "News",},{id: "news-new-course-launching-this-fall-eche-589-machine-learning-in-chemical-engineering-is-now-open-for-enrollment-mwf-10-50-11-40-am-learn-more",
           title: 'New course launching this fall — ECHE 589: Machine Learning in Chemical Engineering...',
@@ -478,7 +478,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%73%6A%69%61%6E%67%38%37@%73%68%65%6E%67%6C%69%6A%69%61%6E%67.%63%6F%6D", "_blank");
+          window.open("mailto:%73%68%65%6E%67%6C%69@%6D%61%69%6C%62%6F%78.%73%63.%65%64%75", "_blank");
         },
       },{
         id: 'social-linkedin',
