@@ -11,9 +11,11 @@ nav_order: 2
 <!-- _pages/publications.md -->
 
 <!-- Keyword filter bar -->
+
 {% include keyword_filter.liquid %}
 
 <!-- Text search -->
+
 {% include bib_search.liquid %}
 
 ---

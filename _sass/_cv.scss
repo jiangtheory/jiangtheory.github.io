@@ -136,7 +136,7 @@ a.btncv:hover {
 
   // Timeline dot
   &::before {
-    content: '';
+    content: "";
     position: absolute;
     left: 82px;
     top: 0.45rem;
@@ -150,7 +150,7 @@ a.btncv:hover {
 
   // Timeline line
   &:not(:last-child)::after {
-    content: '';
+    content: "";
     position: absolute;
     left: 86px;
     top: 1rem;

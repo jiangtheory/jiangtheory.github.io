@@ -1,7 +1,7 @@
 ---
 layout: course
 title: ECHE 589 - Machine Learning in Chemical Engineering
-description: 
+description:
 instructor: Prof. Shengli Jiang
 year: 2026
 term: Fall
@@ -116,5 +116,5 @@ This course provides a theoretical and practical introduction to machine learnin
 
 ## Prerequisites
 
-- ECHE 456: Computational Methods for Engineering Applications  
+- ECHE 456: Computational Methods for Engineering Applications
 - AND one of the following: CSCE 106 (Scientific Applications Programming) or CSCE 145 (Algorithmic Design I)

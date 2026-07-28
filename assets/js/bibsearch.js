@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", function () {
           const totalSiblings = ol.querySelectorAll(":scope > li");
           let visibleCount = 0;
           totalSiblings.forEach(function (li) {
-            if (!li.classList.contains('unloaded') && !li.classList.contains('hidden-by-keyword')) {
+            if (!li.classList.contains("unloaded") && !li.classList.contains("hidden-by-keyword")) {
               visibleCount++;
             }
           });
@@ -62,7 +62,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   const updateInputField = () => {
     // Skip keyword-filter hashes — they are handled by publication-filter.js
-    if (window.location.hash.startsWith('#keyword=')) return;
+    if (window.location.hash.startsWith("#keyword=")) return;
     const hashValue = decodeURIComponent(window.location.hash.substring(1)); // Remove the '#' character
     document.getElementById("bibsearch").value = hashValue;
     filterItems(hashValue);

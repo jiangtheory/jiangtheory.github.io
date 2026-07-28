@@ -33,10 +33,18 @@
 
       {% if entry.url %}
         <h4 class="cv-entry-title">
-          <a href="{{ entry.url }}">{{ study_type }}</a>{% if entry.area %}<span class="cv-entry-area">, {{ entry.area }}</span>{% endif %}
+          <a href="{{ entry.url }}">{{ study_type }}</a>
+          {%- if entry.area -%}
+            <span class="cv-entry-area">, {{ entry.area }}</span>
+          {%- endif %}
         </h4>
       {% elsif study_type != '' %}
-        <h4 class="cv-entry-title">{{ study_type }}{% if entry.area %}<span class="cv-entry-area">, {{ entry.area }}</span>{% endif %}</h4>
+        <h4 class="cv-entry-title">
+          {{ study_type -}}
+          {%- if entry.area -%}
+            <span class="cv-entry-area">, {{ entry.area }}</span>
+          {%- endif %}
+        </h4>
       {% endif %}
 
       {% if entry.institution %}

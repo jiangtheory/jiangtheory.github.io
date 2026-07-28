@@ -14,7 +14,10 @@ layout: page
         {% if page.term %}
           <div class="course-info-item">
             <span class="course-info-label">Term</span>
-            <span class="course-info-value">{{ page.term }} {{ page.year }}</span>
+            <span class="course-info-value">
+              {{- page.term }}
+              {{ page.year -}}
+            </span>
           </div>
         {% endif %}
         {% if page.time %}

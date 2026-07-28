@@ -36,10 +36,7 @@
       "startDate": "2023-01-01",
       "endDate": "Present",
       "summary": "Advisor: Professor Michael A. Webb. Integrate molecular simulation and machine learning to design polymers with tailored properties.",
-      "highlights": [
-        "Physics-informed machine learning for polymer design",
-        "Structure-property relationship modeling in soft materials"
-      ]
+      "highlights": ["Physics-informed machine learning for polymer design", "Structure-property relationship modeling in soft materials"]
     },
     {
       "name": "Princeton University",
@@ -127,9 +124,7 @@
       "studyType": "B.S.",
       "startDate": "2014-01-01",
       "endDate": "2018-12-31",
-      "highlights": [
-        "Worked with Professor Zheng Chen on lithium-ion battery cathode design."
-      ]
+      "highlights": ["Worked with Professor Zheng Chen on lithium-ion battery cathode design."]
     }
   ],
   "awards": [
