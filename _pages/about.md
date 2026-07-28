@@ -13,7 +13,8 @@ profile:
     <p>Assistant Professor</p>
     <p>Department of Chemical Engineering</p>
     <p>University of South Carolina</p>
-    <p><a href="mailto:sjiang87@shenglijiang.com">sjiang87@shenglijiang.com</a></p>
+    <p>Office 2C19 Swearingen</p>
+    <p><a href="mailto:shengli@mailbox.sc.edu">shengli@mailbox.sc.edu</a></p>
 
 social: true
 
@@ -21,7 +22,6 @@ announcements:
   enabled: true
   scrollable: true
   limit: 5
-
 ---
 
 ## About the Jiang Group

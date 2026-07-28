@@ -2,7 +2,7 @@
   "basics": {
     "name": "Shengli (Bruce) Jiang",
     "label": "Incoming Assistant Professor",
-    "email": "sjiang87@shenglijiang.com",
+    "email": "shengli@mailbox.sc.edu",
     "location": {
       "city": "Columbia",
       "region": "South Carolina",
@@ -45,9 +45,7 @@
       "location": "Princeton, NJ",
       "startDate": "2024-01-01",
       "endDate": "2025-12-31",
-      "highlights": [
-        "Course: Machine Learning in Chemical Science and Engineering"
-      ]
+      "highlights": ["Course: Machine Learning in Chemical Science and Engineering"]
     },
     {
       "name": "Dow Chemical",
@@ -55,11 +53,7 @@
       "location": "Freeport, TX",
       "startDate": "2022-01-01",
       "endDate": "2022-12-31",
-      "highlights": [
-        "Advisor: Ivan Castillo and Zheng Yu",
-        "Electricity price forecasting",
-        "Language models for quality note analysis"
-      ]
+      "highlights": ["Advisor: Ivan Castillo and Zheng Yu", "Electricity price forecasting", "Language models for quality note analysis"]
     },
     {
       "name": "Argonne National Laboratory",
@@ -67,10 +61,7 @@
       "location": "Lemont, IL",
       "startDate": "2020-01-01",
       "endDate": "2020-12-31",
-      "highlights": [
-        "Advisor: Prasanna Balaprakash",
-        "Graph neural architecture search for molecular property prediction"
-      ]
+      "highlights": ["Advisor: Prasanna Balaprakash", "Graph neural architecture search for molecular property prediction"]
     },
     {
       "name": "University of California, San Diego",
@@ -78,10 +69,7 @@
       "location": "La Jolla, CA",
       "startDate": "2016-01-01",
       "endDate": "2018-12-31",
-      "highlights": [
-        "Advisor: Zheng Chen",
-        "Design of organic cathodes for lithium-ion batteries"
-      ]
+      "highlights": ["Advisor: Zheng Chen", "Design of organic cathodes for lithium-ion batteries"]
     }
   ],
   "education": [
@@ -92,11 +80,7 @@
       "studyType": "PhD in Chemical Engineering",
       "startDate": "2018-01-01",
       "endDate": "2023-12-31",
-      "highlights": [
-        "Advisor: Victor M. Zavala",
-        "Machine learning in chemical engineering",
-        "Data representation and transformation"
-      ]
+      "highlights": ["Advisor: Victor M. Zavala", "Machine learning in chemical engineering", "Data representation and transformation"]
     },
     {
       "institution": "University of California, San Diego",
@@ -105,9 +89,7 @@
       "studyType": "B.S. in Chemical Engineering",
       "startDate": "2014-01-01",
       "endDate": "2018-12-31",
-      "highlights": [
-        "Vice President of Global China Connection, UCSD Chapter"
-      ]
+      "highlights": ["Vice President of Global China Connection, UCSD Chapter"]
     }
   ],
   "awards": [

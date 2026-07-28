@@ -13,11 +13,11 @@ profiles:
     image_circular: false
     highlight: true
     more_info: >
-      <p><i class="fa-solid fa-location-dot"></i> Columbia, SC 29208</p>
+      <p><i class="fa-solid fa-location-dot"></i> Office 2C19 Swearingen</p>
       <p><i class="fa-solid fa-building-columns"></i> University of South Carolina</p>
       <p><i class="fa-solid fa-flask"></i> CMPD Laboratory</p>
   - align: left
-    image: 
+    image:
     content: about_phd.md
     image_circular: false
     highlight: false

@@ -1,7 +1,7 @@
 cv:
   name: Shengli Jiang, PhD
   label: Assistant Professor
-  email: sjiang87@shenglijiang.com
+  email: shengli@mailbox.sc.edu
   location: Columbia, SC
   image: ""
   summary: Develops physics-informed machine learning and AI methods, integrated with molecular simulation, to design soft materials and chemical products for energy and sustainability.
@@ -15,7 +15,7 @@ cv:
       username: shengli-jiang-59500085
 
   address:
-    street: ""
+    street: 2C19 Swearingen
     city: Columbia
     region: South Carolina
     postalCode: ""

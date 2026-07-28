@@ -39,7 +39,7 @@ Predicting flow behavior and processability of architecturally complex polymers 
 <span class="deadline-badge">Spring 2027 — Apply by October 31, 2026</span>
 </div>
 
-We welcome motivated and curious candidates with a bachelor's degree in chemical engineering or a related field. A computational background is preferred but not required — curiosity and willingness to learn matter more.
+We welcome motivated and curious candidates with a bachelor's degree in chemical engineering or a related field. **A computational background is preferred.** Curiosity and willingness to learn are also important.
 
 ### University Application Requirements
 
@@ -54,52 +54,44 @@ In addition to contacting us directly (see below), you must apply through the US
 <div class="requirement-item">GRE **not required** (optional)</div>
 </div>
 
-**Preferred deadlines:**  
-- Fall 2026: March 31, 2026  
-- Spring 2027: October 31, 2026  
+**Preferred deadlines:**
 
-*(Applications received after these dates are still welcome.)*
+- Fall 2026: March 31, 2026
+- Spring 2027: October 31, 2026
 
-For full details, see:  
-- [USC Chemical Engineering PhD admissions](https://sc.edu/study/colleges_schools/graduate_school/apply/degree_programs-application-requirements/chemical-engineering-phd/)  
-- [International applicants](https://sc.edu/study/colleges_schools/graduate_school/apply/international_applicants/)  
+_(Applications received after these dates are still welcome.)_
+
+For full details, see:
+
+- [USC Chemical Engineering PhD admissions](https://sc.edu/study/colleges_schools/graduate_school/apply/degree_programs-application-requirements/chemical-engineering-phd/)
+- [International applicants](https://sc.edu/study/colleges_schools/graduate_school/apply/international_applicants/)
 
 ---
 
 ## For Prospective Postdocs
 
-We seek candidates who have (or will soon complete) a PhD in a relevant field and are ready to lead their own research direction within a collaborative team. Preferred experience includes one or more of the following:
+**A strong computational background is preferred**, particularly in molecular simulation, machine learning, scientific programming, or related computational methods.
 
-- Molecular modeling and simulation, statistical mechanics, or mesoscale modeling  
-- Generative AI, geometric/topological deep learning, or physics‑informed machine learning  
-- Polymer science, complex fluids, or related areas  
+[**View the official posting and apply through USC Jobs**](https://uscjobs.sc.edu/postings/209451)
 
 ---
 
-## How to Apply
+## How to Apply for PhD Positions
 
 <div class="apply-cta" markdown="1">
 
-Please email all materials as **a single PDF** to **[sjiang87@shenglijiang.com](mailto:sjiang87@shenglijiang.com)** using the appropriate subject line:
+Please email all PhD application materials as **a single PDF** to **[shengli@mailbox.sc.edu](mailto:shengli@mailbox.sc.edu)**.
 
-- **PhD applicants:** `[Prospective Ph.D. — Your Name]`
-- **Postdoc applicants:** `[Prospective Postdoc — Your Name]`
+Use the subject line `[Prospective Ph.D. - Your Name]`.
 
 </div>
 
-### PhD applicants — include
+### Please include
 
 - CV
 - One‑page cover letter (experience, research interests, intended start term)
 - Transcripts (unofficial copies accepted initially)
 - Contact information for two references
-
-### Postdoc applicants — include
-
-- CV
-- One‑page cover letter (experience, research interests, intended start term)
-- One–two representative publications
-- Contact information for three references
 
 <div class="apply-note" markdown="1">
 *For Fall 2026 PhD entry, interested applicants are encouraged to contact Dr. Jiang as soon as possible.*
