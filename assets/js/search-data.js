@@ -25,10 +25,17 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Courses taught by Prof. Jiang at the University of South Carolina and Princeton University.",
+          description: "Courses in machine learning, molecular simulation, and computational chemical engineering.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
+          },
+        },{id: "nav-resources",
+          title: "resources",
+          description: "Useful resources for students.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/resources/";
           },
         },{id: "nav-cv",
           title: "CV",
