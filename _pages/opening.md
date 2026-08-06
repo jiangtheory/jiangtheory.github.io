@@ -4,7 +4,7 @@ title: opening
 permalink: /opening/
 subtitle: "Join the Jiang Group"
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
 ## Join the Jiang Group
