@@ -18,14 +18,14 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "Past work, grouped by year. Use the topic buttons to filter, or the search bar to find specific papers.",
+          description: "Publications are grouped by year. Use the topic buttons to filter, or the search bar to find specific papers.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Courses in machine learning, molecular simulation, and computational chemical engineering.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -44,8 +44,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-opening",
-          title: "opening",
+        },{id: "nav-open-positions",
+          title: "open positions",
           description: "",
           section: "Navigation",
           handler: () => {
