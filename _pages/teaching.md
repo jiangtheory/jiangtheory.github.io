@@ -2,8 +2,6 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: >-
-  Courses in machine learning, molecular simulation, and computational chemical engineering.
 nav: true
 nav_order: 4
 calendar: true

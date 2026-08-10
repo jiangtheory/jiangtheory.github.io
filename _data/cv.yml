@@ -4,7 +4,6 @@ cv:
   email: shengli@mailbox.sc.edu
   location: Columbia, SC
   image: ""
-  summary: Develops physics-informed machine learning and AI methods, integrated with molecular simulation, to design soft materials and chemical products for energy and sustainability.
 
   social_networks:
     - network: X
@@ -33,8 +32,7 @@ cv:
         score: ""
         courses: ""
         highlights:
-          - "Advisor: Professor Victor M. Zavala"
-          - Focused on machine learning for sensor design, solvent systems, electrochemistry, and sustainability.
+          - Conducted doctoral research with Professor Victor M. Zavala.
 
       - institution: University of California, San Diego
         location: La Jolla, CA, USA
@@ -44,36 +42,32 @@ cv:
         start_date: 2014
         end_date: 2018
         highlights:
-          - Worked with Professor Zheng Chen on lithium-ion battery cathode design.
+          - Conducted lithium-ion battery cathode research with Professor Zheng Chen.
 
     Experience:
       - company: University of South Carolina
         position: Assistant Professor
         location: Department of Chemical Engineering, Columbia, SC
-        start_date: 2025
+        start_date: Aug 2026
         end_date: Present
-        summary: "Principal Investigator, Computational Materials and Product Design (CMPD) Laboratory. Tenure-track faculty developing physics-informed machine learning and AI methods for soft materials design."
+        summary: Principal Investigator of the Computational Materials and Product Design Laboratory.
         highlights:
-          - Physics-informed machine learning for polymer and materials design
+          - Physics-informed machine learning for polymer design
           - Molecular simulation and multiscale modeling
 
       - company: Princeton University
         position: Postdoctoral Associate
         location: Department of Chemical and Biological Engineering, Princeton, NJ
         start_date: 2023
-        end_date: 2025
-        summary: "Advisor: Professor Michael A. Webb. Integrate molecular simulation and machine learning to design polymers with tailored properties."
-        highlights:
-          - Physics-informed machine learning for polymer design
-          - Structure-property relationship modeling in soft materials
+        end_date: 2026
+        summary: Worked with Professor Michael A. Webb on molecular simulation and machine learning for polymer design.
 
       - company: Princeton University
         position: Lecturer
         location: Department of Chemical and Biological Engineering, Princeton, NJ
         start_date: 2024
         end_date: 2025
-        summary: "Course: Machine Learning in Chemical Science and Engineering"
-        highlights: []
+        summary: Taught Machine Learning in Chemical Science and Engineering.
 
       - company: Dow Chemical
         position: Research Intern
@@ -81,7 +75,6 @@ cv:
         start_date: 2022
         end_date: 2022
         summary: Electricity price forecasting; large language models for quality note analysis
-        highlights: []
 
       - company: Argonne National Laboratory
         position: Givens Associate
@@ -89,7 +82,6 @@ cv:
         start_date: 2020
         end_date: 2020
         summary: Graph neural architecture search for molecular property prediction
-        highlights: []
 
       - company: University of California, San Diego
         position: Undergraduate Researcher
@@ -97,58 +89,20 @@ cv:
         start_date: 2016
         end_date: 2018
         summary: Design of organic cathodes for lithium-ion batteries
-        highlights: []
 
     Professional Services:
       - company: Peer Review
         position: Reviewer
-        location: Various Journals and Conferences
         start_date: ""
         end_date: Present
-        summary: "Reviewed for journals including Chemical Reviews, Chemical Science, npj Computational Materials, Environmental Science & Technology, Digital Discovery, Molecular Systems Design & Engineering, Computers & Chemical Engineering, and others. Also for conferences: American Control Conference, IEEE Conference on Decision and Control."
-        highlights: []
+        summary: Reviewed manuscripts for Chemical Reviews, Nature Communications, npj Computational Materials, Environmental Science & Technology, Chemical Science, Communications Chemistry, Waste Management, Journal of Chemical Information and Modeling, Molecular Systems Design & Engineering, Chemical Engineering Science, Computers & Chemical Engineering, Engineering Applications of Artificial Intelligence, Industrial & Engineering Chemistry Research, Computational Materials Science, RSC Advances, ACS Omega, Journal of Chemical Physics, Journal of Environmental Chemical Engineering, Expert Systems with Applications, Digital Discovery, Journal of Computational Physics, Chemical Engineering Journal Advances, Engineering Reports, and Chinese Journal of Chemical Engineering. Reviewed conference papers for the American Control Conference and IEEE Conference on Decision and Control.
 
-      - company: Committee Service
-        position: Member
-        location: Princeton University
+      - company: Princeton University
+        position: Department DECI Committee Member
         start_date: 2023
         end_date: 2025
-        summary: Department DECI Committee Member
-        highlights: []
 
-      - company: Committee Service
-        position: Member
-        location: University of Wisconsin-Madison
+      - company: University of Wisconsin-Madison
+        position: Department DEI Committee Member
         start_date: 2022
         end_date: 2023
-        summary: Department DEI Committee Member
-        highlights: []
-
-    Awards:
-      - title: Givens Associate Fellowship
-        authors: []
-        date: 2020
-        awarder: Argonne National Laboratory
-        url: ""
-        summary: Fellowship for research in mathematics and computer science
-
-      - title: Poster Award
-        authors: []
-        date: 2020
-        awarder: Computing in Engineering Forum, University of Wisconsin-Madison
-        url: ""
-        summary: Recognized for outstanding poster presentation
-
-      - title: Travel Award
-        authors: []
-        date: 2019
-        awarder: Machine Learning in Science and Engineering (MLSE), Georgia Institute of Technology
-        url: ""
-        summary: Support for conference attendance
-
-      - title: Provost Honors
-        authors: []
-        date: 2014-2018
-        awarder: University of California, San Diego
-        url: ""
-        summary: Academic honors throughout undergraduate studies

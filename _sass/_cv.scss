@@ -133,6 +133,7 @@ a.btncv:hover {
   position: relative;
   padding-left: 110px;
   margin-bottom: 1.6rem;
+  min-height: 6.75rem;
 
   // Timeline dot
   &::before {

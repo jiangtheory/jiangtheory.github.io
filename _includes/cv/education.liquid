@@ -11,6 +11,8 @@
       {% capture end_date %}
         {% if entry.end_date %}{{ entry.end_date }}{% elsif entry.endDate %}{{ entry.endDate }}{% endif %}
       {% endcapture %}
+      {% assign start_date = start_date | strip %}
+      {% assign end_date = end_date | strip %}
 
       {% if start_date != '' %}
         {% assign startDate = start_date | split: '-' | first %}
@@ -30,6 +32,7 @@
       {% capture study_type %}
         {% if entry.studyType %}{{ entry.studyType }}{% elsif entry.degree %}{{ entry.degree }}{% endif %}
       {% endcapture %}
+      {% assign study_type = study_type | strip %}
 
       {% if entry.url %}
         <h4 class="cv-entry-title">
