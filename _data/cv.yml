@@ -1,5 +1,5 @@
 cv:
-  name: Shengli Jiang, PhD
+  name: Shengli (Bruce) Jiang
   label: Assistant Professor
   email: shengli@mailbox.sc.edu
   location: Columbia, SC
@@ -44,12 +44,12 @@ cv:
         highlights:
           - Conducted lithium-ion battery cathode research with Professor Zheng Chen.
 
-    Experience:
+    Academic Appointments:
       - company: University of South Carolina
         position: Assistant Professor
         location: Department of Chemical Engineering, Columbia, SC
-        start_date: Aug 2026
-        end_date: Present
+        start_date: 2026
+        end_date: present
         summary: Principal Investigator of the Computational Materials and Product Design Laboratory.
         highlights:
           - Physics-informed machine learning for polymer design
@@ -69,6 +69,25 @@ cv:
         end_date: 2025
         summary: Taught Machine Learning in Chemical Science and Engineering.
 
+    Professional Services:
+      - company: Peer Review
+        position: Reviewer
+        start_date: ""
+        end_date: Present
+        summary: >-
+          Reviewed manuscripts for Chemical Reviews, Nature Communications, npj Computational Materials, Environmental Science & Technology, Chemical Science, Communications Chemistry, Macromolecules, ACS Macro Letters, Waste Management, Journal of Chemical Information and Modeling, Molecular Systems Design & Engineering, Chemical Engineering Science, Computers & Chemical Engineering, Engineering Applications of Artificial Intelligence, Industrial & Engineering Chemistry Research, Computational Materials Science, RSC Advances, Sensors and Actuators B: Chemical, ACS Omega, The Journal of Chemical Physics, Journal of Environmental Chemical Engineering, Expert Systems with Applications, Digital Discovery, Journal of Computational Physics, Chemical Engineering Journal Advances, Engineering Reports, and Chinese Journal of Chemical Engineering. Reviewed conference papers for the American Control Conference and IEEE Conference on Decision and Control.
+
+      - company: Princeton University
+        position: Department DEI Committee Member
+        start_date: 2023
+        end_date: 2025
+
+      - company: University of Wisconsin-Madison
+        position: Department DEI Committee Member
+        start_date: 2022
+        end_date: 2023
+
+    Additional Research Experience:
       - company: Dow Chemical
         position: Research Intern
         location: Chemometrics and Artificial Intelligence Group, Freeport, TX
@@ -89,20 +108,3 @@ cv:
         start_date: 2016
         end_date: 2018
         summary: Design of organic cathodes for lithium-ion batteries
-
-    Professional Services:
-      - company: Peer Review
-        position: Reviewer
-        start_date: ""
-        end_date: Present
-        summary: Reviewed manuscripts for Chemical Reviews, Nature Communications, npj Computational Materials, Environmental Science & Technology, Chemical Science, Communications Chemistry, Waste Management, Journal of Chemical Information and Modeling, Molecular Systems Design & Engineering, Chemical Engineering Science, Computers & Chemical Engineering, Engineering Applications of Artificial Intelligence, Industrial & Engineering Chemistry Research, Computational Materials Science, RSC Advances, ACS Omega, Journal of Chemical Physics, Journal of Environmental Chemical Engineering, Expert Systems with Applications, Digital Discovery, Journal of Computational Physics, Chemical Engineering Journal Advances, Engineering Reports, and Chinese Journal of Chemical Engineering. Reviewed conference papers for the American Control Conference and IEEE Conference on Decision and Control.
-
-      - company: Princeton University
-        position: Department DECI Committee Member
-        start_date: 2023
-        end_date: 2025
-
-      - company: University of Wisconsin-Madison
-        position: Department DEI Committee Member
-        start_date: 2022
-        end_date: 2023

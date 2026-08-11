@@ -9,6 +9,7 @@ _site
 .sass-cache
 .tweet-cache
 .venv
+.local/cv/
 assets/libs/
 assets/rendercv/rendercv_output/*.typ
 Gemfile.lock

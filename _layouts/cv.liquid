@@ -106,15 +106,15 @@ layout: default
           </div>
         {% endif %}
 
-        <!-- RenderCV Sections — Merge Experience and Volunteer -->
+        <!-- RenderCV academic appointments -->
         {% assign empty_array = '' | split: ',' %}
-        {% assign exp = cv.sections.Experience | default: empty_array %}
+        {% assign exp = cv.sections['Academic Appointments'] | default: cv.sections.Experience | default: empty_array %}
         {% assign vol = cv.sections.Volunteer | default: empty_array %}
         {% assign combined_experience = exp | concat: vol %}
         {% if combined_experience.size > 0 %}
           <section class="cv-section">
-            <a class="anchor" id="experience"></a>
-            <h3 class="cv-section-title">Experience</h3>
+            <a class="anchor" id="academic-appointments"></a>
+            <h3 class="cv-section-title">Academic Appointments</h3>
             <div class="cv-timeline">
               {% assign entries = combined_experience %}
               {% include cv/experience.liquid %}
@@ -126,7 +126,7 @@ layout: default
           {% assign section_title = section_pair[0] %}
           {% assign section_entries = section_pair[1] %}
 
-          {% if section_title == 'Experience' or section_title == 'Volunteer' %}
+          {% if section_title == 'Academic Appointments' or section_title == 'Experience' or section_title == 'Volunteer' %}
             {% continue %}
           {% endif %}
 
@@ -142,7 +142,7 @@ layout: default
             {% elsif section_title == 'Awards' or section_title == 'Honors and Awards' %}
               {% assign entries = section_entries %}
               {% include cv/awards.liquid %}
-            {% elsif section_title == 'Professional Services' %}
+            {% elsif section_title == 'Professional Services' or section_title == 'Additional Research Experience' %}
               <div class="cv-services">
                 {% assign entries = section_entries %}
                 {% include cv/experience.liquid %}
