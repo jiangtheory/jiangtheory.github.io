@@ -49,7 +49,7 @@ Predictive models guide the search for materials that can be synthesized, proces
 
 <div class="apply-cta" markdown="1">
 
-We are recruiting **PhD students** and a **postdoctoral researcher** to work on **AI‑driven soft materials design**.
+We are recruiting **two PhD students for Spring 2027** and a **postdoctoral researcher** to work on **AI‑driven soft materials design**.
 
 [**View openings & apply →**](/opening/)
 
