@@ -6,9 +6,13 @@ nav: true
 nav_order: 7
 ---
 
-Two **fully funded PhD positions** are available for Spring 2027. One **postdoctoral position** is also available.
+Undergraduate research opportunities are available. Two **fully funded PhD positions** are available for Spring 2027. One **postdoctoral position** is also available.
 
 Our work combines polymer physics, molecular simulation, and machine learning.
+
+## Undergraduate Researchers
+
+Undergraduate students interested in joining the group can email a **CV** to **[shengli@mailbox.sc.edu](mailto:shengli@mailbox.sc.edu)**. We can then chat about possible projects.
 
 ## PhD Students
 
