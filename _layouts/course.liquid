@@ -45,15 +45,29 @@ layout: page
   {{ content }}
 
   {% if page.schedule %}
+    {% assign schedule_has_dates = false %}
+    {% assign schedule_has_materials = false %}
+    {% for entry in page.schedule %}
+      {% if entry.date %}
+        {% assign schedule_has_dates = true %}
+      {% endif %}
+      {% if entry.materials %}
+        {% assign schedule_has_materials = true %}
+      {% endif %}
+    {% endfor %}
     <h2>Schedule</h2>
     <div class="course-schedule">
       <table class="schedule-table">
         <thead>
           <tr>
             <th class="schedule-week">Week</th>
-            <th class="schedule-date">Date</th>
+            {% if schedule_has_dates %}
+              <th class="schedule-date">Date</th>
+            {% endif %}
             <th class="schedule-topic">Topic</th>
-            <th class="schedule-materials">Materials</th>
+            {% if schedule_has_materials %}
+              <th class="schedule-materials">Materials</th>
+            {% endif %}
           </tr>
         </thead>
         <tbody>
@@ -62,7 +76,9 @@ layout: page
               <td class="schedule-week">
                 <span class="week-badge">{{ entry.week }}</span>
               </td>
-              <td class="schedule-date">{{ entry.date }}</td>
+              {% if schedule_has_dates %}
+                <td class="schedule-date">{{ entry.date }}</td>
+              {% endif %}
               <td class="schedule-topic">
                 {% if entry.topic %}
                   <strong>{{ entry.topic }}</strong>
@@ -71,21 +87,23 @@ layout: page
                   <div class="schedule-description">{{ entry.description | markdownify }}</div>
                 {% endif %}
               </td>
-              <td class="schedule-materials">
-                {% if entry.materials %}
-                  {% for material in entry.materials %}
-                    {% if material.url %}
-                      {% if material.url contains '://' %}
-                        <a href="{{ material.url }}" class="material-link" target="_blank">{{ material.name }}</a>
+              {% if schedule_has_materials %}
+                <td class="schedule-materials">
+                  {% if entry.materials %}
+                    {% for material in entry.materials %}
+                      {% if material.url %}
+                        {% if material.url contains '://' %}
+                          <a href="{{ material.url }}" class="material-link" target="_blank">{{ material.name }}</a>
+                        {% else %}
+                          <a href="{{ material.url | relative_url }}" class="material-link" target="_blank">{{ material.name }}</a>
+                        {% endif %}
                       {% else %}
-                        <a href="{{ material.url | relative_url }}" class="material-link" target="_blank">{{ material.name }}</a>
+                        <span class="material-link muted">{{ material.name }}</span>
                       {% endif %}
-                    {% else %}
-                      <span class="material-link muted">{{ material.name }}</span>
-                    {% endif %}
-                  {% endfor %}
-                {% endif %}
-              </td>
+                    {% endfor %}
+                  {% endif %}
+                </td>
+              {% endif %}
             </tr>
           {% endfor %}
         </tbody>

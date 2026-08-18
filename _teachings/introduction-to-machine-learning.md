@@ -5,109 +5,57 @@ description:
 instructor: Prof. Shengli Jiang
 year: 2026
 term: Fall
-location: TBD
+location: Swearingen 2A27
 time: Mondays, Wednesdays, and Fridays, 10:50 – 11:40 AM
 course_id: eche-589
 schedule:
   - week: "1"
-    date: Week 1
-    topic: Course Introduction
-    description: Overview of machine learning, course structure, and expectations.
-    materials:
-      - name: Syllabus
-        url: /assets/pdf/example_pdf.pdf
-      - name: Slides
-        url: /assets/pdf/example_pdf.pdf
+    topic: Course introduction and Python foundations
 
   - week: "2"
-    date: Week 2
-    topic: Overview of Machine Learning
-    description: Fundamental concepts, branches of ML, and math review.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 1
-        url: /assets/pdf/example_pdf.pdf
+    topic: Machine learning paradigms and workflow
 
   - week: "3"
-    date: Week 3
     topic: Regression
-    description: Linear and nonlinear regression, and model evaluation.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Coding Lab
-        url: https://github.com/
 
   - week: "4"
-    date: Week 4
-    topic: Feature Engineering and Model Selection
-    description: Data representation, feature engineering, and model selection techniques.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 2
-        url: /assets/pdf/example_pdf.pdf
+    topic: Feature engineering
 
   - week: "5"
-    date: Week 5
-    topic: Classification
-    description: Logistic regression, support vector machines, random forests, and multi-class classification.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Review Materials
-        url: /assets/pdf/example_pdf.pdf
+    topic: Model selection
 
   - week: "6"
-    date: Week 6
-    topic: Neural Networks Fundamentals
-    description: Introduction to neural networks, TensorFlow/Keras/PyTorch, and gradient descent.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 3
-        url: /assets/pdf/example_pdf.pdf
+    topic: Classification
 
   - week: "7"
-    date: Week 7
-    topic: Unsupervised Learning and Explainable AI
-    description: Unsupervised methods, explainable AI, and best practices.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Coding Lab
-        url: https://github.com/
+    topic: Neural networks
 
-  - week: "8-9"
-    date: Week 8–9
-    topic: Molecular-Level Machine Learning
-    description: Molecular representations, featurization techniques, and molecular property prediction.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Coding Lab
-        url: https://github.com/
+  - week: "8"
+    topic: Unsupervised learning
 
-  - week: "10-11"
-    date: Week 10–11
-    topic: Product-Level Machine Learning
-    description: Bayesian optimization, active learning, and design of experiments.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Coding Lab
-        url: https://github.com/
+  - week: "9"
+    topic: Explainable AI and molecular representations
 
-  - week: "12-13"
-    date: Week 12–13
-    topic: Process-Level Machine Learning
-    description: Computer vision for process monitoring, fault detection, and diagnosis.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Coding Lab
-        url: https://github.com/
+  - week: "10"
+    topic: Molecular featurization and midterm presentations
+
+  - week: "11"
+    topic: Graph neural networks
+
+  - week: "12"
+    topic: Convolutional neural networks
+
+  - week: "13"
+    topic: Gaussian processes and uncertainty quantification
+
+  - week: "14"
+    topic: Bayesian optimization and active learning
+
+  - week: "15"
+    topic: Thanksgiving recess
+
+  - week: "16"
+    topic: Machine learning best practices and final presentations
 ---
 
 ## Course Overview
