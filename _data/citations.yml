@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-08-19'
 papers:
   faN7n3oAAAAJ:2osOgNQ5qMEC:
     citations: 48
@@ -10,7 +10,7 @@ papers:
     title: Online characterization of mixed plastic waste using machine learning and mid-infrared spectroscopy
     year: '2022'
   faN7n3oAAAAJ:5nxA0vEk-isC:
-    citations: 77
+    citations: 78
     title: 'Capturing molecular interactions in graph neural networks: a case study in multi-component phase equilibrium'
     year: '2023'
   faN7n3oAAAAJ:8k81kl-MbHgC:
@@ -106,7 +106,7 @@ papers:
     title: 'PhaseSplit-FH3: A dataset of ternary separation per Flory-Huggins theory.'
     year: '2024'
   faN7n3oAAAAJ:hFOr9nPyWt4C:
-    citations: 8
+    citations: 9
     title: A new modeling framework for real-time extreme electricity price forecasting
     year: '2024'
   faN7n3oAAAAJ:hMod-77fHWUC:
