@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-19'
+  last_updated: '2026-08-21'
 papers:
   faN7n3oAAAAJ:2osOgNQ5qMEC:
     citations: 48
@@ -10,7 +10,7 @@ papers:
     title: Online characterization of mixed plastic waste using machine learning and mid-infrared spectroscopy
     year: '2022'
   faN7n3oAAAAJ:5nxA0vEk-isC:
-    citations: 78
+    citations: 79
     title: 'Capturing molecular interactions in graph neural networks: a case study in multi-component phase equilibrium'
     year: '2023'
   faN7n3oAAAAJ:8k81kl-MbHgC:
@@ -58,7 +58,7 @@ papers:
     title: EC-MS dataset of electrocatalytic transformations of butane on Pt
     year: '2024'
   faN7n3oAAAAJ:W7OEmFMy1HYC:
-    citations: 79
+    citations: 80
     title: Using ATR-FTIR spectra and convolutional neural networks for characterizing mixed plastic waste
     year: '2021'
   faN7n3oAAAAJ:WF5omc3nYNoC:
