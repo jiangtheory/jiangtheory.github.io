@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-08-21'
+  last_updated: '2026-08-26'
 papers:
   faN7n3oAAAAJ:2osOgNQ5qMEC:
     citations: 48
     title: Fast predictions of liquid-phase acid-catalyzed reaction rates using molecular dynamics simulations and convolutional neural networks
     year: '2020'
   faN7n3oAAAAJ:3fE2CSJIrl8C:
-    citations: 37
+    citations: 38
     title: Online characterization of mixed plastic waste using machine learning and mid-infrared spectroscopy
     year: '2022'
   faN7n3oAAAAJ:5nxA0vEk-isC:
-    citations: 79
+    citations: 81
     title: 'Capturing molecular interactions in graph neural networks: a case study in multi-component phase equilibrium'
     year: '2023'
   faN7n3oAAAAJ:8k81kl-MbHgC:
@@ -90,7 +90,7 @@ papers:
     title: Scalable synthesis of uniform nanosized microporous carbon particles from rigid polymers for rapid ion and molecule adsorption
     year: '2018'
   faN7n3oAAAAJ:dhFuZR0502QC:
-    citations: 13
+    citations: 14
     title: "Understanding the interplay between electrocatalytic C(sp3)\u2012C(sp3) fragmentation and oxygenation reactions"
     year: '2024'
   faN7n3oAAAAJ:e5wmG9Sq2KIC:
@@ -98,7 +98,7 @@ papers:
     title: A digital twin simulator of a pastillation process with applications to automatic control based on computer vision
     year: '2025'
   faN7n3oAAAAJ:eQOLeE2rZwMC:
-    citations: 57
+    citations: 58
     title: 'Convolutional neural nets in chemical engineering: Foundations, computations, and applications'
     year: '2021'
   faN7n3oAAAAJ:hC7cP41nSMkC:
@@ -134,6 +134,6 @@ papers:
     title: 'Understanding the electrochemical properties of naphthalene diimide: implication for stable and high-rate lithium-ion battery electrodes'
     year: '2018'
   faN7n3oAAAAJ:zYLM7Y9cAGgC:
-    citations: 54
+    citations: 55
     title: Using machine learning and liquid crystal droplets to identify and quantify endotoxins from different bacterial species
     year: '2021'
