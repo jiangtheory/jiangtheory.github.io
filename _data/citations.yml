@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-31'
+  last_updated: '2026-09-04'
 papers:
   faN7n3oAAAAJ:2osOgNQ5qMEC:
     citations: 48
@@ -26,7 +26,7 @@ papers:
     title: 'ToPoRg-18k: dataset of single-chain radii of gyration distribution for 18,450 architecturally diverse and chemically patterned coarse-grained polymers'
     year: '2025'
   faN7n3oAAAAJ:GnPB-g6toBAC:
-    citations: 2
+    citations: 3
     title: Generative active learning across polymer architectures and solvophobicities for targeted rheological behavior
     year: '2025'
   faN7n3oAAAAJ:J_g5lzvAfSwC:
@@ -58,7 +58,7 @@ papers:
     title: EC-MS dataset of electrocatalytic transformations of butane on Pt
     year: '2024'
   faN7n3oAAAAJ:W7OEmFMy1HYC:
-    citations: 80
+    citations: 81
     title: Using ATR-FTIR spectra and convolutional neural networks for characterizing mixed plastic waste
     year: '2021'
   faN7n3oAAAAJ:WF5omc3nYNoC:
@@ -126,7 +126,7 @@ papers:
     title: Graph neural network architecture search for molecular property prediction
     year: '2020'
   faN7n3oAAAAJ:qxL8FJ1GzNcC:
-    citations: 15
+    citations: 16
     title: Robust plastic waste classification using wavelet transform multi-resolution analysis and convolutional neural networks
     year: '2024'
   faN7n3oAAAAJ:u5HHmVD_uO8C:
