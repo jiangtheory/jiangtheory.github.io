@@ -6,9 +6,7 @@ nav: true
 nav_order: 7
 ---
 
-Undergraduate research opportunities are available. One **fully funded PhD position** is available for Spring 2027. We do not currently have any postdoctoral openings.
-
-Our work combines polymer physics, molecular simulation, and machine learning.
+Our work combines polymer physics, molecular simulation, and machine learning. Current opportunities are listed below.
 
 ## Undergraduate Researchers
 
@@ -16,10 +14,12 @@ Undergraduate students interested in joining the group can email a **CV** to **[
 
 ## PhD Students
 
+We expect to recruit **one fully funded PhD student**, starting in Spring or Fall 2027.
+
 Applicants should hold an undergraduate degree in chemical engineering or a related field. Experience in molecular simulation, machine learning, or scientific programming is preferred.
 
 <div class="deadline-badges" markdown="1">
-<span class="deadline-badge">Spring 2027 | Preferred deadline October 31, 2026</span>
+<span class="deadline-badge">Spring or Fall 2027 | Preferred deadline October 31, 2026</span>
 </div>
 
 Applicants must also apply through the USC Graduate School.
@@ -39,4 +39,4 @@ Use the subject line `[Prospective Ph.D. - Your Name]`.
 
 ## Postdoctoral Researcher
 
-We do not currently have any postdoctoral openings.
+There are no postdoctoral openings at this time.
