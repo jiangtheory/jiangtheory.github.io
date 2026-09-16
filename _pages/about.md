@@ -49,7 +49,7 @@ Predictive models guide the search for materials that can be synthesized, proces
 
 <div class="apply-cta" markdown="1">
 
-We welcome **undergraduate researchers** and are recruiting **two PhD students for Spring 2027** and a **postdoctoral researcher**.
+We welcome **undergraduate researchers** and are recruiting **one PhD student for Spring 2027**. We do not currently have any postdoctoral openings.
 
 [**View openings →**](/opening/)
 

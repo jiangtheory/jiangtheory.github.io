@@ -6,7 +6,7 @@ nav: true
 nav_order: 7
 ---
 
-Undergraduate research opportunities are available. Two **fully funded PhD positions** are available for Spring 2027. One **postdoctoral position** is also available.
+Undergraduate research opportunities are available. One **fully funded PhD position** is available for Spring 2027. We do not currently have any postdoctoral openings.
 
 Our work combines polymer physics, molecular simulation, and machine learning.
 
@@ -39,6 +39,4 @@ Use the subject line `[Prospective Ph.D. - Your Name]`.
 
 ## Postdoctoral Researcher
 
-Applicants should have a strong background in molecular simulation, machine learning, or scientific programming.
-
-[View the official posting and apply through USC Jobs](https://uscjobs.sc.edu/postings/209451)
+We do not currently have any postdoctoral openings.
