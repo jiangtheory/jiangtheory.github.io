@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<link rel="stylesheet" href="{{ '/assets/css/group-guide.css' | relative_url | bust_file_cache }}">
+
+<div class="group-guide">
+  <header class="group-guide__header">
+    <a class="group-guide__back" href="{{ '/resources/' | relative_url }}">Resources / Group life</a>
+    <h1>{{ page.title }}</h1>
+    <p>{{ page.description }}</p>
+  </header>
+
+  <div class="group-guide__layout">
+    <nav class="group-guide__nav" aria-label="Group guide sections">
+      <p class="group-guide__nav-label">In this guide</p>
+      <ul>
+        {% for section in page.guide_sections %}
+          <li>
+            <a href="#{{ section.id }}">{{ section.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </nav>
+
+    <article class="group-guide__content" aria-label="Group guide">
+      {{ content }}
+      <p class="group-guide__return"><a href="{{ '/resources/' | relative_url }}">Back to resources</a></p>
+    </article>
+  </div>
+</div>
