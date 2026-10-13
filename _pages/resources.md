@@ -7,6 +7,10 @@ nav: true
 nav_order: 5
 ---
 
+## Understand our research
+
+[Research overview]({{ '/research/' | relative_url }}): An introduction to soft materials for energy and sustainability, physics-informed machine learning, and processing and advanced manufacturing, with published starting points for students.
+
 ## About the group
 
 [Group guide]({{ '/resources/group-guide/' | relative_url }}): Overview, logistics, day-to-day operations, and expectations.

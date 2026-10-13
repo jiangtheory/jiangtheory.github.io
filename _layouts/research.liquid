@@ -1,0 +1,63 @@
+---
+layout: default
+---
+<link rel="stylesheet" href="{{ '/assets/css/group-guide.css' | relative_url | bust_file_cache }}">
+<link rel="stylesheet" href="{{ '/assets/css/research.css' | relative_url | bust_file_cache }}">
+
+<div class="group-guide research-guide">
+  <header class="group-guide__header">
+    {% if page.research_topic %}
+      <a class="group-guide__back" href="{{ '/research/' | relative_url }}">Research / {{ page.research_label }}</a>
+    {% else %}
+      <a class="group-guide__back" href="{{ '/' | relative_url }}">Jiang Group / Research</a>
+    {% endif %}
+    <h1>{{ page.heading | default: page.title }}</h1>
+    <p>{{ page.description }}</p>
+  </header>
+
+  <div class="group-guide__layout">
+    <nav class="group-guide__nav research-guide__nav" aria-label="Research navigation">
+      <p class="group-guide__nav-label">Explore our research</p>
+      <ul>
+        <li>
+          <a
+            href="{{ '/research/' | relative_url }}"
+            {% unless page.research_topic %}
+              aria-current="page"
+            {% endunless %}
+            >Overview</a
+          >
+        </li>
+        {% assign topics = site.pages | where: 'research_topic', true | sort: 'research_order' %}
+        {% for topic in topics %}
+          <li>
+            <a
+              href="{{ topic.url | relative_url }}"
+              {% if page.url == topic.url %}
+                aria-current="page"
+              {% endif %}
+            >
+              {{- topic.research_label -}}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+      <p class="group-guide__nav-label research-guide__section-label">On this page</p>
+      <ul>
+        {% for section in page.research_sections %}
+          <li>
+            <a href="#{{ section.id }}">{{ section.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </nav>
+
+    <article class="group-guide__content research-guide__content" aria-label="{{ page.heading | default: page.title }}">
+      {{ content }}
+      <p class="group-guide__return">
+        <a href="{{ '/research/' | relative_url }}">Research overview</a> · <a href="{{ '/publications/' | relative_url }}">All publications</a> ·
+        <a href="{{ '/resources/group-guide/' | relative_url }}">Group guide</a>
+      </p>
+    </article>
+  </div>
+</div>

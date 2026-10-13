@@ -28,11 +28,13 @@ Our research combines **physics-informed machine learning** with **molecular sim
 
 Soft-material behavior emerges from interactions across multiple length and time scales. We combine simulation, theory, and data to understand structure-property relationships and develop predictive models grounded in physical principles.
 
+[**Explore our research →**]({{ '/research/' | relative_url }})
+
 ### Our Approach
 
 <div class="capabilities-grid" markdown="1">
 <div class="capability-card">
-<strong>Machine Learning Methods</strong>
+<strong>Physics-informed Machine Learning</strong>
 We develop physics-informed neural networks, geometric and topological deep learning methods, and generative models.
 </div>
 <div class="capability-card">
