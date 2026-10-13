@@ -42,22 +42,10 @@ layout: default
           </li>
         {% endfor %}
       </ul>
-      <p class="group-guide__nav-label research-guide__section-label">On this page</p>
-      <ul>
-        {% for section in page.research_sections %}
-          <li>
-            <a href="#{{ section.id }}">{{ section.title }}</a>
-          </li>
-        {% endfor %}
-      </ul>
     </nav>
 
     <article class="group-guide__content research-guide__content" aria-label="{{ page.heading | default: page.title }}">
       {{ content }}
-      <p class="group-guide__return">
-        <a href="{{ '/research/' | relative_url }}">Research overview</a> · <a href="{{ '/publications/' | relative_url }}">All publications</a> ·
-        <a href="{{ '/resources/group-guide/' | relative_url }}">Group guide</a>
-      </p>
     </article>
   </div>
 </div>

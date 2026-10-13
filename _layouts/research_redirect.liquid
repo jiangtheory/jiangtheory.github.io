@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="robots" content="noindex">
+    <meta http-equiv="refresh" content="0; url={{ page.redirect | relative_url }}">
+    <link rel="canonical" href="{{ page.redirect | relative_url }}">
+    <title>
+      Research |
+      {{ site.navbar_title | default: site.title }}
+    </title>
+  </head>
+  <body>
+    <p><a href="{{ page.redirect | relative_url }}">Continue to research</a></p>
+  </body>
+</html>

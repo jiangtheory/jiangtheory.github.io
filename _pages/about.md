@@ -24,28 +24,9 @@ announcements:
   limit: 5
 ---
 
-Our research combines **physics-informed machine learning** with **molecular simulation** to design **soft materials and chemical products** for energy and sustainability.
-
-Soft-material behavior emerges from interactions across multiple length and time scales. We combine simulation, theory, and data to understand structure-property relationships and develop predictive models grounded in physical principles.
+We study **polymers and other soft materials** for **energy dominance** and the **circular economy**. Our work combines **molecular simulation** with **physics-informed machine learning** to understand how molecular structure and processing affect material performance.
 
 [**Explore our research →**]({{ '/research/' | relative_url }})
-
-### Our Approach
-
-<div class="capabilities-grid" markdown="1">
-<div class="capability-card">
-<strong>Physics-informed Machine Learning</strong>
-We develop physics-informed neural networks, geometric and topological deep learning methods, and generative models.
-</div>
-<div class="capability-card">
-<strong>Molecular Simulation</strong>
-We use molecular simulation to relate molecular structure and interactions to bulk properties.
-</div>
-<div class="capability-card">
-<strong>Materials and Product Design</strong>
-Predictive models guide the search for materials that can be synthesized, processed, and scaled.
-</div>
-</div>
 
 ## Join Us
 

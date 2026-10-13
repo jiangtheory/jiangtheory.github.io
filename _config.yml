@@ -9,7 +9,7 @@ middle_name: (Bruce)
 last_name: Jiang
 contact_note: >
 description: >- # ">-" folds lines and strips the trailing newline (keeps JSON-LD + meta tags valid)
-  Shengli (Bruce) Jiang — Assistant Professor of Chemical Engineering at the University of South Carolina (CMPD Lab); physics-informed machine learning and AI for soft materials and chemical products.
+  Shengli (Bruce) Jiang — Assistant Professor of Chemical Engineering at the University of South Carolina (CMPD Lab); physics-informed machine learning and molecular simulation for soft materials, energy dominance, and the circular economy.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords: Shengli Jiang, CMPD Lab, University of South Carolina, physics-informed machine learning, soft materials, molecular simulation, polymer design, chemical engineering

@@ -9,7 +9,7 @@ nav_order: 5
 
 ## Understand our research
 
-[Research overview]({{ '/research/' | relative_url }}): An introduction to soft materials for energy and sustainability, physics-informed machine learning, and processing and advanced manufacturing, with published starting points for students.
+[Research overview]({{ '/research/' | relative_url }}): Soft materials for energy dominance and the circular economy, and physics-informed machine learning.
 
 ## About the group
 
