@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="robots" content="noindex">
     <meta http-equiv="refresh" content="0; url={{ page.redirect | relative_url }}">
-    <link rel="canonical" href="{{ page.redirect | relative_url }}">
+    <link rel="canonical" href="{{ page.redirect | split: '#' | first | relative_url }}">
     <title>
       Research |
       {{ site.navbar_title | default: site.title }}
