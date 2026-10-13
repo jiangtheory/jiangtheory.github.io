@@ -24,22 +24,22 @@ announcements:
   limit: 5
 
 intro: >-
-  We study the physics of polymers and other soft materials for energy dominance and the circular economy. We also develop physics-informed machine learning methods, with particular interest in representation and learning from limited data.
+  We study the physics of **polymers and other soft materials** for **energy dominance** and the **circular economy**. We also develop **physics-informed machine learning** methods, with particular interest in *representation* and *learning from limited data*.
 ---
 
 <div class="home-research" markdown="1">
 
 ## [Soft materials for energy dominance]({{ '/research/#energy-dominance' | relative_url }})
 
-We study how molecular interactions, chain motion, and material structure govern transport, mechanical response, and stability. Understanding these relationships helps explain the performance of soft materials in energy storage and conversion.
+We study how molecular interactions, chain motion, and material structure govern **transport, mechanical response, and stability**. Understanding these relationships helps explain the performance of soft materials in energy storage and conversion.
 
 ## [Soft materials for the circular economy]({{ '/research/#circular-economy' | relative_url }})
 
-Polymer recovery and reuse depend on composition, compatibility, and changes in molecular structure. We study how mixtures, interfaces, and reprocessing affect material behavior and the properties retained through successive processing cycles.
+Polymer recovery and reuse depend on composition, compatibility, and changes in molecular structure. We study how **mixtures, interfaces, and reprocessing** affect material behavior and the properties retained through successive processing cycles.
 
 ## [Physics-informed machine learning]({{ '/research/#physics-informed-ml' | relative_url }})
 
-We investigate how physical knowledge enters surrogate and hybrid models, constraints, and priors. We study how these choices interact with the representation of a system and affect learning when data are scarce.
+We investigate how physical knowledge enters **surrogate and hybrid models, constraints, and priors**. We study how these choices interact with the representation of a system and affect learning when data are scarce.
 
 </div>
 
