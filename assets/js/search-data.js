@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "research",
-          description: "Understanding materials for energy, sustainability, and manufacturing through physics, simulation, and machine learning.",
+          description: "Materials for energy dominance and the circular economy.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
