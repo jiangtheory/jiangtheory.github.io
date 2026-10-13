@@ -464,6 +464,11 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// Keep the homepage recruitment box beside the floated profile.
+.post .profile + .clearfix .apply-cta {
+  display: flow-root;
+}
+
 .apply-note {
   font-size: 0.85rem;
   color: var(--global-text-color-light);
