@@ -25,6 +25,9 @@ announcements:
 
 intro: >-
   We study the physics of **polymers and other soft materials** for **energy dominance** and the **circular economy**. We also develop **physics-informed machine learning** methods, with particular interest in *representation* and *learning from limited data*.
+
+recruitment: >-
+  We welcome **undergraduate researchers** and expect to recruit **two PhD students**, starting in Spring or Fall 2027.
 ---
 
 <div class="home-research" markdown="1">
@@ -40,15 +43,5 @@ Polymer recovery and reuse depend on composition, compatibility, and changes in 
 ## [Physics-informed machine learning]({{ '/research/#physics-informed-ml' | relative_url }})
 
 We investigate how physical knowledge enters **surrogate and hybrid models, constraints, and priors**. We study how these choices interact with the representation of a system and affect learning when data are scarce.
-
-</div>
-
-## Join Us
-
-<div class="apply-cta" markdown="1">
-
-We welcome **undergraduate researchers** and expect to recruit **one PhD student**, starting in Spring or Fall 2027.
-
-[**View openings →**]({{ '/opening/' | relative_url }})
 
 </div>

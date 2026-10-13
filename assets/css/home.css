@@ -1,18 +1,22 @@
-/* Homepage overview and full-width research/recruitment sections. */
+/* Homepage introduction, recruitment, and profile share a responsive grid. */
 .post .home-overview {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(12rem, 16rem);
-  gap: 2rem;
+  grid-template-areas: "intro profile" "join profile";
+  grid-template-rows: min-content 1fr;
+  gap: 1.5rem 2rem;
   align-items: start;
   margin-bottom: 2rem;
 }
 
 .home-overview__intro {
+  grid-area: intro;
   font-size: 1.1rem;
   line-height: 1.75;
 }
 
 .post .home-overview__profile {
+  grid-area: profile;
   width: 100%;
   min-width: 0;
   margin: 0;
@@ -21,6 +25,21 @@
 
 .home-overview__profile .more-info p {
   display: block;
+}
+
+.home-join {
+  grid-area: join;
+  min-width: 0;
+}
+
+.home-join h2 {
+  margin: 0 0 0.75rem;
+  font-size: 1.5rem;
+  line-height: 1.4;
+}
+
+.home-join .apply-cta {
+  margin: 0;
 }
 
 .home-sections {
@@ -55,6 +74,7 @@
   line-height: 1.75;
 }
 
+.home-join a:focus-visible,
 .home-sections a:focus-visible {
   outline: 2px solid var(--global-theme-color);
   outline-offset: 4px;
@@ -63,6 +83,8 @@
 @media (max-width: 599px) {
   .post .home-overview {
     grid-template-columns: minmax(0, 1fr);
+    grid-template-areas: "intro" "profile" "join";
+    grid-template-rows: auto auto auto;
     gap: 1.25rem;
   }
 

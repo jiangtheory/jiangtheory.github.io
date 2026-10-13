@@ -10,13 +10,15 @@ Our work combines polymer physics, molecular simulation, and machine learning. C
 
 ## Undergraduate Researchers
 
-Undergraduate students interested in joining the group can email a **CV** to **[shengli@mailbox.sc.edu](mailto:shengli@mailbox.sc.edu)**. We can then chat about possible projects.
+Undergraduate students interested in joining the group can email a **CV and academic transcript** to **[shengli@mailbox.sc.edu](mailto:shengli@mailbox.sc.edu)**. We can then chat about possible projects.
 
 ## PhD Students
 
-We expect to recruit **one fully funded PhD student**, starting in Spring or Fall 2027.
+We expect to recruit **two fully funded PhD students**, starting in Spring or Fall 2027.
 
-Applicants should hold an undergraduate degree in chemical engineering or a related field. Experience in molecular simulation, machine learning, or scientific programming is preferred.
+Applicants should hold an undergraduate degree in chemical engineering or a related field.
+
+Prior experience with **machine learning (ML)** or **molecular dynamics (MD)** is preferred. Scientific programming experience is also valuable.
 
 <div class="deadline-badges" markdown="1">
 <span class="deadline-badge">Spring or Fall 2027 | Preferred deadline October 31, 2026</span>
@@ -31,7 +33,7 @@ Applicants must also apply through the USC Graduate School.
 
 <div class="apply-cta" markdown="1">
 
-Email your **CV** to **[shengli@mailbox.sc.edu](mailto:shengli@mailbox.sc.edu)**.
+Email your **CV and academic transcript** to **[shengli@mailbox.sc.edu](mailto:shengli@mailbox.sc.edu)**.
 
 Use the subject line `[Prospective Ph.D. - Your Name]`.
 

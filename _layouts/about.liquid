@@ -45,6 +45,17 @@ layout: default
     {% endif %}
 
     {% if page.intro %}
+      {% if page.recruitment %}
+        <section class="home-join" aria-labelledby="join-us">
+          <h2 id="join-us">Join Us</h2>
+          <div class="apply-cta">
+            {{ page.recruitment | markdownify }}
+            <p>
+              <a href="{{ '/opening/' | relative_url }}"><strong>View openings →</strong></a>
+            </p>
+          </div>
+        </section>
+      {% endif %}
       </div>
     {% endif %}
 
