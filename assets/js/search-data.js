@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-team",
+  },{id: "nav-research",
+          title: "research",
+          description: "Understanding materials for energy, sustainability, and manufacturing through physics, simulation, and machine learning.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/research/";
+          },
+        },{id: "nav-team",
           title: "team",
           description: "",
           section: "Navigation",
