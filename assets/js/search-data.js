@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "research",
-          description: "Materials for energy dominance and the circular economy.",
+          description: "We use molecular simulation and physical theory to understand soft materials. Our research also examines how physical knowledge and representation influence machine learning.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
