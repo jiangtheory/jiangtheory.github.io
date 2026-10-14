@@ -2,7 +2,7 @@
 layout: course
 title: ECHE 589 - Machine Learning in Chemical Engineering
 description:
-instructor: Prof. Shengli Jiang
+instructor: Prof. Shengli (Bruce) Jiang
 year: 2026
 term: Fall
 location: Swearingen 2A27

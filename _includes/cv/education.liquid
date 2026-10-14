@@ -17,7 +17,13 @@
       {% if start_date != '' %}
         {% assign startDate = start_date | split: '-' | first %}
         {% assign endDate = end_date | split: '-' | first | default: 'Present' %}
-        <span class="cv-date-range">{{ startDate }} – {{ endDate }}</span>
+        {% if startDate == endDate %}
+          <span class="cv-date-range">{{ endDate }}</span>
+        {% else %}
+          <span class="cv-date-range">{{ startDate }} – {{ endDate }}</span>
+        {% endif %}
+      {% elsif end_date != '' %}
+        <span class="cv-date-range">{{ end_date | split: '-' | first }}</span>
       {% endif %}
 
       {% capture location %}

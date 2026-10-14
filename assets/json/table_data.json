@@ -1,15 +1,13 @@
 {
   "basics": {
     "name": "Shengli (Bruce) Jiang",
-    "label": "Postdoctoral Associate | Lecturer",
-    "email": "sj0161@princeton.edu",
+    "label": "Assistant Professor",
+    "email": "shengli@mailbox.sc.edu",
     "location": {
-      "city": "Princeton",
-      "region": "New Jersey",
+      "city": "Columbia",
+      "region": "South Carolina",
       "countryCode": "US"
     },
-    "summary": "A computational chemical engineer specializing in integrating molecular simulation and machine learning to design soft materials and polymers with tailored properties for energy and sustainability applications.",
-    "image": "",
     "profiles": [
       {
         "network": "X",
@@ -30,127 +28,103 @@
   },
   "work": [
     {
+      "name": "University of South Carolina",
+      "position": "Assistant Professor",
+      "location": "Department of Chemical Engineering, Columbia, SC",
+      "startDate": "2026",
+      "endDate": "Present",
+      "summary": "Principal Investigator, Computational Materials and Product Design (CMPD) Laboratory.",
+      "highlights": []
+    },
+    {
       "name": "Princeton University",
       "position": "Postdoctoral Associate",
       "location": "Department of Chemical and Biological Engineering, Princeton, NJ",
-      "startDate": "2023-01-01",
-      "endDate": "Present",
-      "summary": "Advisor: Professor Michael A. Webb. Integrate molecular simulation and machine learning to design polymers with tailored properties.",
-      "highlights": ["Physics-informed machine learning for polymer design", "Structure-property relationship modeling in soft materials"]
+      "startDate": "2023",
+      "endDate": "2026",
+      "summary": "Polymer design using machine learning and molecular dynamics simulations. Advisor: Michael A. Webb.",
+      "highlights": []
     },
     {
       "name": "Princeton University",
       "position": "Lecturer",
       "location": "Department of Chemical and Biological Engineering, Princeton, NJ",
-      "startDate": "2024-01-01",
-      "endDate": "2025-12-31",
-      "summary": "Course: Machine Learning in Chemical Science and Engineering",
+      "startDate": "2024",
+      "endDate": "2025",
+      "summary": "Machine Learning in Chemical Science and Engineering.",
       "highlights": []
     },
     {
       "name": "Dow Chemical",
       "position": "Research Intern",
       "location": "Chemometrics and Artificial Intelligence Group, Freeport, TX",
-      "startDate": "2022-01-01",
-      "endDate": "2022-12-31",
-      "summary": "Electricity price forecasting; large language models for quality note analysis",
+      "startDate": "2022",
+      "endDate": "2022",
+      "summary": "Electricity price forecasting; large language models for quality note analysis.",
       "highlights": []
     },
     {
       "name": "Argonne National Laboratory",
       "position": "Givens Associate",
       "location": "Mathematics and Computer Science Division, Lemont, IL",
-      "startDate": "2020-01-01",
-      "endDate": "2020-12-31",
-      "summary": "Graph neural architecture search for molecular property prediction",
+      "startDate": "2020",
+      "endDate": "2020",
+      "summary": "Graph neural architecture search for molecular property prediction.",
       "highlights": []
     },
     {
-      "name": "University of California, San Diego",
-      "position": "Undergraduate Researcher",
-      "location": "Department of NanoEngineering, La Jolla, CA",
-      "startDate": "2016-01-01",
-      "endDate": "2018-12-31",
-      "summary": "Design of organic cathodes for lithium-ion batteries",
-      "highlights": []
-    },
-    {
-      "name": "Various Journals and Conferences",
+      "name": "Peer Review",
       "position": "Reviewer",
       "location": "",
       "startDate": "",
-      "endDate": "Present",
-      "summary": "Reviewed for journals including Chemical Reviews, Chemical Science, npj Computational Materials, Environmental Science & Technology, Digital Discovery, Molecular Systems Design & Engineering, Computers & Chemical Engineering, and others. Also for conferences: American Control Conference, IEEE Conference on Decision and Control.",
-      "highlights": []
-    },
-    {
-      "name": "Princeton University",
-      "position": "Department DECI Committee Member",
-      "location": "Princeton University",
-      "startDate": "2023-01-01",
-      "endDate": "2025-12-31",
-      "summary": "Committee Service",
-      "highlights": []
-    },
-    {
-      "name": "University of Wisconsin-Madison",
-      "position": "Department DEI Committee Member",
-      "location": "University of Wisconsin-Madison",
-      "startDate": "2022-01-01",
-      "endDate": "2023-12-31",
-      "summary": "Committee Service",
-      "highlights": []
+      "endDate": "",
+      "summary": "Journals: Chemical Reviews; Nature Communications; npj Computational Materials; Environmental Science & Technology; Chemical Science; Communications Chemistry; Waste Management; Journal of Chemical Information and Modeling; Molecular Systems Design & Engineering; Chemical Engineering Science; Computers & Chemical Engineering; Engineering Applications of Artificial Intelligence; Industrial & Engineering Chemistry Research; Computational Materials Science; RSC Advances; Sensors and Actuators B: Chemical; ACS Omega; Journal of Chemical Physics; Journal of Environmental Chemical Engineering; Expert Systems With Applications; Digital Discovery; Journal of Computational Physics; Chemical Engineering Journal Advances; Engineering Reports; Chinese Journal of Chemical Engineering.",
+      "highlights": ["Conferences: American Control Conference; IEEE Conference on Decision and Control."]
     }
   ],
   "education": [
     {
       "institution": "University of Wisconsin-Madison",
-      "location": "Madison, WI, USA",
+      "location": "Madison, WI",
       "url": "https://www.wisc.edu/",
       "area": "Chemical Engineering",
-      "studyType": "PhD",
-      "startDate": "2018-01-01",
-      "endDate": "2023-12-31",
+      "studyType": "Ph.D.",
+      "endDate": "2023",
       "highlights": [
-        "Advisor: Professor Victor M. Zavala",
-        "Focused on machine learning for sensor design, solvent systems, electrochemistry, and sustainability."
+        "Minor in Computer Science; advisor: Victor M. Zavala.",
+        "Thesis: Data Representations and Transformations in Chemical Engineering."
       ]
     },
     {
       "institution": "University of California, San Diego",
-      "location": "La Jolla, CA, USA",
+      "location": "La Jolla, CA",
       "url": "https://ucsd.edu/",
       "area": "Chemical Engineering",
       "studyType": "B.S.",
-      "startDate": "2014-01-01",
-      "endDate": "2018-12-31",
-      "highlights": ["Worked with Professor Zheng Chen on lithium-ion battery cathode design."]
+      "endDate": "2018",
+      "highlights": ["Minor in Nano Engineering; advisor: Zheng Chen."]
     }
   ],
   "awards": [
     {
       "title": "Givens Associate Fellowship",
       "date": "2020",
-      "awarder": "Argonne National Laboratory",
-      "summary": "Fellowship for research in mathematics and computer science"
+      "awarder": "Argonne National Laboratory"
     },
     {
       "title": "Poster Award",
       "date": "2020",
-      "awarder": "Computing in Engineering Forum, University of Wisconsin-Madison",
-      "summary": "Recognized for outstanding poster presentation"
+      "awarder": "Computing in Engineering Forum, University of Wisconsin-Madison"
     },
     {
       "title": "Travel Award",
       "date": "2019",
-      "awarder": "Machine Learning in Science and Engineering (MLSE), Georgia Institute of Technology",
-      "summary": "Support for conference attendance"
+      "awarder": "Machine Learning in Science and Engineering (MLSE), Georgia Institute of Technology"
     },
     {
       "title": "Provost Honors",
-      "date": "2014-2018",
-      "awarder": "University of California, San Diego",
-      "summary": "Academic honors throughout undergraduate studies"
+      "date": "2014–2018",
+      "awarder": "University of California, San Diego"
     }
   ]
 }

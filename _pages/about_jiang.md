@@ -1,4 +1,4 @@
-**Shengli Jiang, PhD**<br>
+**Shengli (Bruce) Jiang, PhD**<br>
 Assistant Professor<br>
 Principal Investigator
 

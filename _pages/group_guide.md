@@ -31,18 +31,18 @@ We care about good science and treating each other well. There are no stupid que
 
 ## Getting set up {#logistics}
 
-- **Workspace:** Dr. Jiang is in Swearingen 2C19. The student and postdoc office is in Swearingen 3C30.
+- **Workspace:** Dr. Shengli (Bruce) Jiang is in Swearingen 2C19. The student and postdoc office is in Swearingen 3C30.
 - **Computing:** [Request a Research Computing account](https://scprod.service-now.com/sp?id=sc_cat_item&sys_id=a100fb030f396300c1c0563be1050eba).
-- **Shared resources:** We use Slack for everyday communication, Google Calendar for meetings and time away, and OneDrive for research documents. Contact Dr. Jiang for access.
-- **Travel and vacation:** Take time off and enjoy it. Add travel and vacation dates to the group calendar. For planned absences longer than two weeks, aim to give Dr. Jiang two months of notice so we can plan together. If plans change, or you are sick or dealing with an emergency, let him know when you can. You do not need to share personal details on the calendar.
+- **Shared resources:** We use Slack for everyday communication, Google Calendar for meetings and time away, and OneDrive for research documents. Contact Dr. Shengli (Bruce) Jiang for access.
+- **Travel and vacation:** Take time off and enjoy it. Add travel and vacation dates to the group calendar. For planned absences longer than two weeks, aim to give Dr. Shengli (Bruce) Jiang two months of notice so we can plan together. If plans change, or you are sick or dealing with an emergency, let him know when you can. You do not need to share personal details on the calendar.
 
 ## Our weekly routine {#day-to-day-operations}
 
 - **Communication:** Use Slack for everyday questions and conversations. Email important updates and documents, such as paper drafts and grant applications, so they are easy to find later.
-- **Individual meetings:** Meet with Dr. Jiang each week to discuss what you tried, what you learned, and what to do next. Questions and unfinished work are welcome. Keep your meeting slides organized by date.
+- **Individual meetings:** Meet with Dr. Shengli (Bruce) Jiang each week to discuss what you tried, what you learned, and what to do next. Questions and unfinished work are welcome. Keep your meeting slides organized by date.
 - **Group meetings:** We meet weekly to share research or discuss papers. Use this time to ask for advice and practice explaining your work. Bring a clear, prepared update; it does not need to be a polished conference talk.
-- **Monday updates:** Email Dr. Jiang a few bullets on your work, reading, questions, and next steps. Use these as your individual meeting agenda. Aim to read at least two relevant papers each week; discuss adjustments when coursework or other commitments need more attention.
-- **Where we work:** Working in the lab is our usual arrangement because it helps us learn from each other. For planned remote work, notify Dr. Jiang in advance and add the dates to the group calendar. If you need a longer-term change, talk with him so you can agree on a plan.
+- **Monday updates:** Email Dr. Shengli (Bruce) Jiang a few bullets on your work, reading, questions, and next steps. Use these as your individual meeting agenda. Aim to read at least two relevant papers each week; discuss adjustments when coursework or other commitments need more attention.
+- **Where we work:** Working in the lab is our usual arrangement because it helps us learn from each other. For planned remote work, notify Dr. Shengli (Bruce) Jiang in advance and add the dates to the group calendar. If you need a longer-term change, talk with him so you can agree on a plan.
 
 ## Working together {#expectations}
 
@@ -65,9 +65,9 @@ At the start of each semester, we will agree on a few research and learning goal
 ## Research practices
 
 - **Notes and reproducibility:** Keep dated notes, including things that did not work. Save inputs, software versions, and analysis steps so someone else can repeat your work.
-- **Code and data:** Save code on GitHub with regular commits and give Dr. Jiang access. Keep repositories private until we agree to release them. Use OneDrive for research documents. Before generating large datasets, agree on where to store and back them up.
+- **Code and data:** Save code on GitHub with regular commits and give Dr. Shengli (Bruce) Jiang access. Keep repositories private until we agree to release them. Use OneDrive for research documents. Before generating large datasets, agree on where to store and back them up.
 - **Checking results:** Compare results with known examples, test your assumptions, and look at uncertainty before drawing conclusions. Bring unexpected results to our meetings so we can work through them.
-- **Writing and credit:** We use LaTeX for papers; the Overleaf documentation is a good place to start. Discuss contributions and authorship early, and review research drafts with Dr. Jiang before sharing them outside the group.
+- **Writing and credit:** We use LaTeX for papers; the Overleaf documentation is a good place to start. Discuss contributions and authorship early, and review research drafts with Dr. Shengli (Bruce) Jiang before sharing them outside the group.
 
 ### Using AI while learning
 
@@ -83,17 +83,17 @@ AI can help explain concepts and existing code. The goal is for you to understan
 
 These goals give new PhD students a starting point. We will work through them together and adjust the pace based on your background, coursework, and project.
 
-- **First week:** Meet your labmates, get access to group and computing resources, and complete required training. Meet with Dr. Jiang to discuss your first project.
+- **First week:** Meet your labmates, get access to group and computing resources, and complete required training. Meet with Dr. Shengli (Bruce) Jiang to discuss your first project.
 - **First month:** Learn to use GitHub, access the server, run a basic machine learning algorithm, and set up and run a simple molecular dynamics simulation in LAMMPS.
 - **Second month:** Build a working understanding of the field around your first project, the main open questions, and where your work might fit.
 - **End of the first semester:** Work toward preliminary results and a plan for what comes next. If the project needs a different approach, we will work that out together.
 
 ### Completing a project or leaving the group
 
-- **Handover:** Organize your project code, data, and notes so someone else can continue the work. Update GitHub, explain how to reproduce your results, and list unfinished tasks. Make sure Dr. Jiang has access to the project materials.
-- **Follow-up:** Agree with Dr. Jiang on plans for remaining papers and collaboration. Return group equipment and coordinate account or access changes before leaving.
+- **Handover:** Organize your project code, data, and notes so someone else can continue the work. Update GitHub, explain how to reproduce your results, and list unfinished tasks. Make sure Dr. Shengli (Bruce) Jiang has access to the project materials.
+- **Follow-up:** Agree with Dr. Shengli (Bruce) Jiang on plans for remaining papers and collaboration. Return group equipment and coordinate account or access changes before leaving.
 
 ## Questions and support {#questions-and-updates}
 
-- **Help and concerns:** Talk to Dr. Jiang if you need support or have a concern. You can also contact the graduate program director or department chair directly if you would prefer to speak with someone outside the group.
+- **Help and concerns:** Talk to Dr. Shengli (Bruce) Jiang if you need support or have a concern. You can also contact the graduate program director or department chair directly if you would prefer to speak with someone outside the group.
 - **Updates:** If something in this guide is unclear or no longer works, bring it up. We will revisit it together each semester.

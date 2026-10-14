@@ -21,71 +21,47 @@ cv:
     countryCode: US
 
   sections:
-    Education:
-      - institution: University of Wisconsin-Madison
-        location: Madison, WI, USA
-        url: https://www.wisc.edu/
-        area: Chemical Engineering
-        studyType: PhD
-        start_date: 2018
-        end_date: 2023
-        score: ""
-        courses: ""
-        highlights:
-          - Conducted doctoral research with Professor Victor M. Zavala.
-
-      - institution: University of California, San Diego
-        location: La Jolla, CA, USA
-        url: https://ucsd.edu/
-        area: Chemical Engineering
-        studyType: B.S.
-        start_date: 2014
-        end_date: 2018
-        highlights:
-          - Conducted lithium-ion battery cathode research with Professor Zheng Chen.
-
     Academic Appointments:
       - company: University of South Carolina
         position: Assistant Professor
         location: Department of Chemical Engineering, Columbia, SC
         start_date: 2026
-        end_date: present
-        summary: Principal Investigator of the Computational Materials and Product Design Laboratory.
-        highlights:
-          - Physics-informed machine learning for polymer design
-          - Molecular simulation and multiscale modeling
+        end_date: Present
+        summary: Principal Investigator, Computational Materials and Product Design (CMPD) Laboratory.
 
       - company: Princeton University
         position: Postdoctoral Associate
         location: Department of Chemical and Biological Engineering, Princeton, NJ
         start_date: 2023
         end_date: 2026
-        summary: Worked with Professor Michael A. Webb on molecular simulation and machine learning for polymer design.
+        summary: "Polymer design using machine learning and molecular dynamics simulations. Advisor: Michael A. Webb."
 
       - company: Princeton University
         position: Lecturer
         location: Department of Chemical and Biological Engineering, Princeton, NJ
         start_date: 2024
         end_date: 2025
-        summary: Taught Machine Learning in Chemical Science and Engineering.
+        summary: Machine Learning in Chemical Science and Engineering.
 
-    Professional Services:
-      - company: Peer Review
-        position: Reviewer
-        start_date: ""
-        end_date: Present
-        summary: >-
-          Reviewed manuscripts for Chemical Reviews, Nature Communications, npj Computational Materials, Environmental Science & Technology, Chemical Science, Communications Chemistry, Macromolecules, ACS Macro Letters, Waste Management, Journal of Chemical Information and Modeling, Molecular Systems Design & Engineering, Chemical Engineering Science, Computers & Chemical Engineering, Engineering Applications of Artificial Intelligence, Industrial & Engineering Chemistry Research, Computational Materials Science, RSC Advances, Sensors and Actuators B: Chemical, ACS Omega, The Journal of Chemical Physics, Journal of Environmental Chemical Engineering, Expert Systems with Applications, Digital Discovery, Journal of Computational Physics, Chemical Engineering Journal Advances, Engineering Reports, and Chinese Journal of Chemical Engineering. Reviewed conference papers for the American Control Conference and IEEE Conference on Decision and Control.
-
-      - company: Princeton University
-        position: Department DEI Committee Member
-        start_date: 2023
-        end_date: 2025
-
-      - company: University of Wisconsin-Madison
-        position: Department DEI Committee Member
-        start_date: 2022
+    Education:
+      - institution: University of Wisconsin-Madison
+        location: Madison, WI
+        url: https://www.wisc.edu/
+        area: Chemical Engineering
+        studyType: Ph.D.
         end_date: 2023
+        highlights:
+          - "Minor in Computer Science; advisor: Victor M. Zavala."
+          - "Thesis: Data Representations and Transformations in Chemical Engineering."
+
+      - institution: University of California, San Diego
+        location: La Jolla, CA
+        url: https://ucsd.edu/
+        area: Chemical Engineering
+        studyType: B.S.
+        end_date: 2018
+        highlights:
+          - "Minor in Nano Engineering; advisor: Zheng Chen."
 
     Additional Research Experience:
       - company: Dow Chemical
@@ -93,18 +69,41 @@ cv:
         location: Chemometrics and Artificial Intelligence Group, Freeport, TX
         start_date: 2022
         end_date: 2022
-        summary: Electricity price forecasting; large language models for quality note analysis
+        summary: Electricity price forecasting; large language models for quality note analysis.
 
       - company: Argonne National Laboratory
         position: Givens Associate
         location: Mathematics and Computer Science Division, Lemont, IL
         start_date: 2020
         end_date: 2020
-        summary: Graph neural architecture search for molecular property prediction
+        summary: Graph neural architecture search for molecular property prediction.
 
-      - company: University of California, San Diego
-        position: Undergraduate Researcher
-        location: Department of NanoEngineering, La Jolla, CA
-        start_date: 2016
-        end_date: 2018
-        summary: Design of organic cathodes for lithium-ion batteries
+    Honors and Awards:
+      - title: Givens Associate Fellowship
+        date: "2020"
+        awarder: Argonne National Laboratory
+
+      - title: Poster Award
+        date: "2020"
+        awarder: Computing in Engineering Forum, University of Wisconsin-Madison
+
+      - title: Travel Award
+        date: "2019"
+        awarder: Machine Learning in Science and Engineering (MLSE), Georgia Institute of Technology
+
+      - title: Provost Honors
+        date: "2014–2018"
+        awarder: University of California, San Diego
+
+    Professional Services:
+      - company: Peer Review
+        position: Reviewer
+        summary: >-
+          Journals: Chemical Reviews; Nature Communications; npj Computational Materials; Environmental Science & Technology; Chemical Science; Communications Chemistry; Waste Management; Journal of Chemical Information and Modeling; Molecular Systems Design & Engineering; Chemical Engineering Science; Computers & Chemical Engineering; Engineering Applications of Artificial Intelligence; Industrial & Engineering Chemistry Research; Computational Materials Science; RSC Advances; Sensors and Actuators B: Chemical; ACS Omega; Journal of Chemical Physics; Journal of Environmental Chemical Engineering; Expert Systems With Applications; Digital Discovery; Journal of Computational Physics; Chemical Engineering Journal Advances; Engineering Reports; Chinese Journal of Chemical Engineering.
+        highlights:
+          - "Conferences: American Control Conference; IEEE Conference on Decision and Control."
+
+    Professional Affiliations:
+      - bullet: American Chemical Society (Computers in Chemistry Division)
+      - bullet: American Institute of Chemical Engineers
+      - bullet: Materials Research Society

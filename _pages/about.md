@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p><strong>Shengli Jiang, PhD</strong></p>
+    <p><strong>Shengli (Bruce) Jiang, PhD</strong></p>
     <p>Assistant Professor</p>
     <p>Department of Chemical Engineering</p>
     <p>University of South Carolina</p>
