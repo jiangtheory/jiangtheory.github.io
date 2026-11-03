@@ -17,6 +17,10 @@ profiles:
       <p><i class="fa-solid fa-building-columns"></i> University of South Carolina</p>
       <p><i class="fa-solid fa-flask"></i> CMPD Laboratory</p>
   - align: left
+    image: joshua_ojih.jpg
+    content: about_joshua_ojih.md
+    image_circular: false
+  - align: left
     image: gauri_patil.jpg
     content: about_gauri_patil.md
     image_circular: false

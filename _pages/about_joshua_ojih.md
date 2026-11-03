@@ -1,0 +1,6 @@
+**Joshua Ojih**<br>
+_Postdoctoral Fellow_
+
+Joshua earned his Ph.D. in Mechanical Engineering from the University of South Carolina under the supervision of Prof. Ming Hu. His background is in computational materials science, with expertise in machine learning and density functional theory (DFT).
+
+His research in the CMPD Laboratory will focus on machine learning for soft materials.
