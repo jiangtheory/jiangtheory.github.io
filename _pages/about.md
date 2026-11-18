@@ -27,7 +27,7 @@ intro: >-
   We study the physics of **polymers and other soft materials** for **energy dominance** and the **circular economy**. We also develop **physics-informed machine learning** methods, with particular interest in *representation* and *learning from limited data*.
 
 recruitment: >-
-  We welcome **undergraduate researchers** and expect to recruit **two PhD students**, starting in Spring or Fall 2027.
+  We welcome **undergraduate researchers** and expect to recruit **two PhD students**, one international student and one U.S. citizen, starting in Spring or Fall 2027.
 ---
 
 <div class="home-research" markdown="1">
