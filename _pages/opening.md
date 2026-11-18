@@ -14,10 +14,7 @@ Undergraduate students interested in joining the group can email a **CV and acad
 
 ## PhD Students
 
-We expect to recruit **two fully funded PhD students** starting in Spring or Fall 2027:
-
-- **One international student**
-- **One U.S. citizen**
+We expect to recruit **two fully funded PhD students** starting in Spring or Fall 2027. **One position requires U.S. citizenship**; the other is open to all applicants.
 
 Applicants should hold an undergraduate degree in chemical engineering or a related field.
 
