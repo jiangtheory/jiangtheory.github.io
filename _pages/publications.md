@@ -5,7 +5,7 @@ title: publications
 description: >
   Publications are grouped by year. Use the topic buttons to filter, or the search bar to find specific papers.
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 <!-- _pages/publications.md -->
