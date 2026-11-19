@@ -27,6 +27,19 @@
   border-top: 0;
 }
 
+.research-figure {
+  margin: 0.75rem 0 1.5rem;
+}
+
+.research-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 10px;
+  background: #fff;
+}
+
 @media print {
   .research-guide__topics {
     display: none;
