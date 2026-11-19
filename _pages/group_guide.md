@@ -23,7 +23,7 @@ guide_sections:
 
 ## About the group {#group-overview}
 
-The Computational Materials and Product Design (CMPD) Laboratory at the University of South Carolina uses molecular simulation and machine learning to design soft materials and chemical products. Our work focuses on soft materials for energy dominance and the circular economy, including how processing affects material performance.
+The Jiang Group at the University of South Carolina uses molecular simulation and machine learning to design soft materials and chemical products. Our work focuses on soft materials for energy dominance and the circular economy, including how processing affects material performance.
 
 [Explore our research themes]({{ '/research/' | relative_url }}).
 

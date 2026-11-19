@@ -3,7 +3,6 @@ layout: about
 title: about
 permalink: /
 heading: Jiang Group
-tagline: Computational Materials and Product Design
 subtitle: "Department of Chemical Engineering | Molinaroli College of Engineering and Computing | University of South Carolina"
 
 profile:

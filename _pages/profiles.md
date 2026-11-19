@@ -16,7 +16,7 @@ profiles:
     more_info: >
       <p><i class="fa-solid fa-location-dot"></i> Office 2C19 Swearingen</p>
       <p><i class="fa-solid fa-building-columns"></i> University of South Carolina</p>
-      <p><i class="fa-solid fa-flask"></i> CMPD Laboratory</p>
+      <p><i class="fa-solid fa-flask"></i> Jiang Group</p>
   - align: left
     image: joshua_ojih.jpg
     content: about_joshua_ojih.md
