@@ -77,7 +77,7 @@ ninja.data = [{
           title: 'ECHE 589 - Machine Learning in Chemical Engineering',
           description: "",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
+              window.location.href = "/teaching/eche-589/";
             },},{
         id: 'social-cv',
         title: 'CV',
