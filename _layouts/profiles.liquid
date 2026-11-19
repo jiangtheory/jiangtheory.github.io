@@ -33,4 +33,11 @@ layout: page
       </div>
     {% endfor %}
   {% endif %}
+  {% if page.join_card %}
+    <a class="team-join-card" href="{{ '/opening/' | relative_url }}">
+      <strong>This could be you</strong>
+      <span>{{ page.join_card }}</span>
+      <span class="team-join-card__cta">View openings →</span>
+    </a>
+  {% endif %}
 </div>

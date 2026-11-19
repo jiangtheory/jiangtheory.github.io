@@ -5,4 +5,4 @@ inline: True
 related_posts: false
 ---
 
-New course this fall. **ECHE 589: Machine Learning in Chemical Engineering** meets MWF 10:50–11:40 AM. [Learn more](/teaching/).
+New course this fall. **ECHE 589: Machine Learning in Chemical Engineering** meets MWF 10:50–11:40 AM. [Learn more](/teaching/eche-589/).

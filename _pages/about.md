@@ -2,6 +2,8 @@
 layout: about
 title: about
 permalink: /
+heading: Jiang Group
+tagline: Computational Materials and Product Design
 subtitle: "Department of Chemical Engineering | Molinaroli College of Engineering and Computing | University of South Carolina"
 
 profile:
@@ -16,6 +18,7 @@ profile:
     <p>Office 2C19 Swearingen</p>
     <p><a href="mailto:shengli@mailbox.sc.edu">shengli@mailbox.sc.edu</a></p>
 
+selected_papers: true
 social: true
 
 announcements:
@@ -32,18 +35,27 @@ recruitment: >-
 
 <div class="home-research-cards">
   <a class="research-card" href="{{ '/research/#energy-dominance' | relative_url }}">
-    <img src="{{ '/assets/img/research/energy.jpg' | relative_url }}" alt="Polymer electrolyte between a lithium-metal anode and a layered cathode, with lithium ions and anions dispersed among the polymer chains" width="1440" height="960" loading="lazy">
+    <img src="{{ '/assets/img/research/energy.jpg' | relative_url }}" alt="Polymer electrolyte between a lithium-metal anode and a layered cathode, with lithium ions and anions dispersed among the polymer chains" width="1294" height="887" loading="lazy">
+    <div class="research-card__body">
     <h2>Soft materials for energy dominance</h2>
     <p>We study how molecular interactions, chain motion, and material structure govern <strong>transport, mechanical response, and stability</strong>. Understanding these relationships helps explain the performance of soft materials in energy storage and conversion.</p>
+    <span class="research-card__more">Learn more →</span>
+    </div>
   </a>
   <a class="research-card" href="{{ '/research/#circular-economy' | relative_url }}">
-    <img src="{{ '/assets/img/research/interface.jpg' | relative_url }}" alt="Two polymer layers peeling apart while diblock copolymer chains bridge the interface" width="1440" height="960" loading="lazy">
+    <img src="{{ '/assets/img/research/interface.jpg' | relative_url }}" alt="Two polymer layers peeling apart while diblock copolymer chains bridge the interface" width="1251" height="887" loading="lazy">
+    <div class="research-card__body">
     <h2>Soft materials for the circular economy</h2>
     <p>Polymer recovery and reuse depend on composition, compatibility, and changes in molecular structure. We study how <strong>mixtures, interfaces, and reprocessing</strong> affect material behavior and the properties retained through successive processing cycles.</p>
+    <span class="research-card__more">Learn more →</span>
+    </div>
   </a>
   <a class="research-card" href="{{ '/research/#physics-informed-ml' | relative_url }}">
-    <img src="{{ '/assets/img/research/piml.jpg' | relative_url }}" alt="Polymer architectures feed a neural network guided by physical knowledge, which predicts a trade-off between two properties" width="1440" height="960" loading="lazy">
+    <img src="{{ '/assets/img/research/piml.jpg' | relative_url }}" alt="Polymer architectures feed a neural network guided by physical knowledge, which predicts a trade-off between two properties" width="1315" height="517" loading="lazy">
+    <div class="research-card__body">
     <h2>Physics-informed machine learning</h2>
     <p>We investigate how physical knowledge enters <strong>surrogate and hybrid models, constraints, and priors</strong>. We study how these choices interact with the representation of a system and affect learning when data are scarce.</p>
+    <span class="research-card__more">Learn more →</span>
+    </div>
   </a>
 </div>

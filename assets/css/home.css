@@ -73,13 +73,22 @@
   box-shadow: 0 10px 24px rgba(20, 24, 60, 0.12);
 }
 
+/* Images are trimmed to their content; the frame supplies a uniform white margin. */
 .research-card img {
   display: block;
   width: 100%;
   height: auto;
-  aspect-ratio: 3 / 2;
-  object-fit: cover;
+  aspect-ratio: 16 / 10;
+  object-fit: contain;
+  padding: 0.6rem;
   background: #fff;
+}
+
+.research-card__body {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  min-width: 0;
 }
 
 .research-card h2 {
@@ -94,15 +103,89 @@
 }
 
 .research-card p {
-  margin: 0 1rem 1.1rem;
+  margin: 0 1rem 0.75rem;
   font-size: 0.95rem;
   line-height: 1.65;
 }
 
-@media (max-width: 767px) {
+.research-card__more {
+  margin: auto 1rem 1rem;
+  color: var(--global-theme-color) !important;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+/* Tablets: one card per row, image beside text. */
+@media (min-width: 576px) and (max-width: 991px) {
   .home-research-cards {
     grid-template-columns: minmax(0, 1fr);
   }
+
+  .research-card {
+    flex-direction: row;
+    align-items: stretch;
+  }
+
+  .research-card img {
+    flex: 0 0 40%;
+    width: 40%;
+    aspect-ratio: auto;
+    align-self: center;
+  }
+
+}
+
+/* Phones: one card per row, image on top. */
+@media (max-width: 575px) {
+  .home-research-cards {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+/* Home page header: group name with a smaller tagline. */
+.home-header .post-title {
+  margin-bottom: 0.25rem;
+}
+
+.home-tagline {
+  margin: 0 0 0.5rem;
+  font-size: 1.35rem;
+  font-weight: 300;
+  line-height: 1.35;
+}
+
+.home-section-title {
+  margin-top: 2.5rem;
+}
+
+.home-more {
+  margin: -0.5rem 0 1rem;
+  font-weight: 600;
+}
+
+/* Smaller, quieter contact icons at the bottom of the home page. */
+.post .social .contact-icons {
+  font-size: 2rem;
+  margin-top: 1.5rem;
+}
+
+.post .social .contact-icons a {
+  margin: 0 0.35rem;
+}
+
+.post .social .contact-icons a svg {
+  width: 2rem;
+  height: 2rem;
+  margin-bottom: 0.25rem;
+}
+
+.post .social .contact-icons a img {
+  width: 1.8rem;
+  height: 1.8rem;
+}
+
+.post .social .contact-icons a i::before {
+  color: var(--global-text-color-light);
 }
 
 .home-join a:focus-visible,
@@ -112,9 +195,17 @@
 }
 
 @media (max-width: 599px) {
+  .home-header .post-title {
+    font-size: 2.25rem;
+  }
+
+  .home-tagline {
+    font-size: 1.1rem;
+  }
+
   .post .home-overview {
     grid-template-columns: minmax(0, 1fr);
-    grid-template-areas: "intro" "profile" "join";
+    grid-template-areas: "intro" "join" "profile";
     grid-template-rows: auto auto auto;
     gap: 1.25rem;
   }

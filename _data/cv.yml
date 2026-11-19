@@ -48,7 +48,7 @@ cv:
         location: Madison, WI
         url: https://www.wisc.edu/
         area: Chemical Engineering
-        studyType: Ph.D.
+        studyType: PhD
         end_date: 2023
         highlights:
           - "Minor in Computer Science; advisor: Victor M. Zavala."
@@ -58,7 +58,7 @@ cv:
         location: La Jolla, CA
         url: https://ucsd.edu/
         area: Chemical Engineering
-        studyType: B.S.
+        studyType: BS
         end_date: 2018
         highlights:
           - "Minor in Nano Engineering; advisor: Zheng Chen."

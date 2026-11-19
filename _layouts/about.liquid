@@ -4,15 +4,18 @@ layout: default
 <link rel="stylesheet" href="{{ '/assets/css/home.css' | relative_url | bust_file_cache }}">
 
 <div class="post">
-  <header class="post-header">
+  <header class="post-header home-header">
     <h1 class="post-title">
-      {% if site.title == 'blank' %}
+      {% if page.heading %}
+        {{ page.heading }}
+      {% elsif site.title == 'blank' %}
         <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
         {{ site.last_name }}
       {% else %}
         {{ site.title }}
       {% endif %}
     </h1>
+    {% if page.tagline %}<p class="home-tagline">{{ page.tagline }}</p>{% endif %}
     <p class="desc">{{ page.subtitle }}</p>
   </header>
 
@@ -47,7 +50,7 @@ layout: default
     {% if page.intro %}
       {% if page.recruitment %}
         <section class="home-join" aria-labelledby="join-us">
-          <h2 id="join-us">Join Us</h2>
+          <h2 id="join-us">Join us</h2>
           <div class="apply-cta">
             {{ page.recruitment | markdownify }}
             <p>
@@ -61,10 +64,19 @@ layout: default
 
     <div class="{% if page.intro %}home-sections{% else %}clearfix{% endif %}">{{ content }}</div>
 
+    <!-- Selected papers -->
+    {% if page.selected_papers %}
+      <h2 class="home-section-title">
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected publications</a>
+      </h2>
+      {% include selected_papers.liquid %}
+      <p class="home-more"><a href="{{ '/publications/' | relative_url }}">All publications →</a></p>
+    {% endif %}
+
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
-      <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+      <h2 class="home-section-title">
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
@@ -75,14 +87,6 @@ layout: default
         <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
       </h2>
       {% include latest_posts.liquid %}
-    {% endif %}
-
-    <!-- Selected papers -->
-    {% if page.selected_papers %}
-      <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
-      </h2>
-      {% include selected_papers.liquid %}
     {% endif %}
 
     <!-- Social -->

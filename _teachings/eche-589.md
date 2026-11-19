@@ -1,7 +1,10 @@
 ---
 layout: course
 title: ECHE 589 - Machine Learning in Chemical Engineering
+permalink: /teaching/eche-589/
 description:
+teaser: Machine learning methods and their applications in chemical engineering, from regression and neural networks to Bayesian optimization.
+image: teaching/eche589_flyer.jpg
 instructor: Prof. Shengli (Bruce) Jiang
 year: 2026
 term: Fall
@@ -58,7 +61,9 @@ schedule:
     topic: Machine learning best practices and final presentations
 ---
 
-## Course Overview
+<figure class="course-flyer"><a href="{{ '/assets/img/teaching/eche589_flyer.jpg' | relative_url }}"><img src="{{ '/assets/img/teaching/eche589_flyer.jpg' | relative_url }}" alt="ECHE 589 course flyer" width="1600" height="2133" loading="lazy"></a></figure>
+
+## Course overview
 
 This course provides a theoretical and practical introduction to machine learning (ML) methods and their applications in chemical engineering. After an overview of ML algorithms, we will focus on specific applications (e.g., QSPR modeling, molecular simulation, materials design, spectral and image analysis, and process control) to illustrate how ML methods widely adopted in Big Tech are applied to engineering problems. Through topical literature reviews, case studies, and programming-based assignments, students will engage with state-of-the-art methodologies and gain practical experience implementing ML algorithms in an engineering context.
 

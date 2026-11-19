@@ -8,6 +8,9 @@
         {% assign year_courses = year_group.items | sort: 'term' %}
         {% for course in year_courses %}
           <div class="course-item">
+            {% if course.image %}
+              <a class="course-thumb" href="{{ course.url | relative_url }}"><img src="{{ course.image | prepend: '/assets/img/' | relative_url }}" alt="{{ course.title }}" loading="lazy"></a>
+            {% endif %}
             <h3 class="course-title">
               <a href="{{ course.url | relative_url }}">{{ course.title }}</a>
             </h3>
@@ -22,7 +25,9 @@
               {% endif %}
             </div>
 
-            {% if course.description %}
+            {% if course.teaser %}
+              <p class="course-teaser">{{ course.teaser }}</p>
+            {% elsif course.description %}
               <div class="course-description">
                 {{ course.description | markdownify }}
               </div>

@@ -5,6 +5,7 @@ title: team
 description:
 nav: true
 nav_order: 2
+join_card: We expect to recruit two PhD students for Spring or Fall 2027 and welcome undergraduate researchers.
 
 profiles:
   - align: left
